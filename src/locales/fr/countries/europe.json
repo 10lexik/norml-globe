@@ -1,0 +1,1175 @@
+{
+  "FR": {
+    "name": "France",
+    "flag": "🇫🇷",
+    "alias": "France",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (Loi du 31 décembre axée sur l'ordre public)",
+      "evolution": "2020 (Introduction de l'Amende Forfaitaire Délictuelle)",
+      "context": "Maintien d'une ligne répressive dure malgré une consommation record en Europe."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle nulle ; risque policier omniprésent pour l'usager.",
+      "risks": "Tests salivaires fréquents, suspension de permis dès détection (même sans effet), AFD de 200€.",
+      "analysis": {
+        "social": "Stigmatisation des usagers précaires ; accès inégal aux soins et à la défense légale.",
+        "racial": "Sur-représentation documentée des contrôles au faciès liés à la législation stupéfiants.",
+        "economic": "Coût de la répression > 1,2 Mds€/an ; manque à gagner fiscal estimé à 2 Mds€."
+      }
+    },
+    "wikipediaSlug": "Cannabis en France"
+  },
+  "DE": {
+    "name": "Allemagne",
+    "flag": "🇩🇪",
+    "alias": "Germany",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1971 (Loi BtMG)",
+      "evolution": "2024 (CanG Pilier 1 : auto-culture) ; 2026 (Déploiement du Pilier 2 : premières zones de vente régulée en boutiques)",
+      "context": "Modèle de transition européen : passage de l'associatif non-marchand vers une régulation commerciale pilotée."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle très élevée ; l'un des cadres les plus sûrs et progressistes au monde.",
+      "risks": "Règles strictes sur la consommation publique (écoles), limites de conduite (3.5ng/ml THC sanguin).",
+      "analysis": {
+        "social": "Normalisation sociale achevée ; baisse drastique de la stigmatisation pénalisante.",
+        "racial": "Fin des contrôles injustifiés ciblant les minorités sous couvert de 'simple usage'.",
+        "economic": "Économies massives sur la chaîne pénale ; boom du secteur R&D médical."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Allemagne"
+  },
+  "NL": {
+    "name": "Pays-Bas",
+    "flag": "🇳🇱",
+    "alias": "Netherlands",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1919 (Loi sur l'opium, mise à jour en 1976)",
+      "evolution": "2024-2026 (Wietexperiment : phase de régulation de la production)",
+      "context": "Paradoxe historique : vente tolérée (Coffee shops) mais production longtemps interdite."
+    },
+    "norml_expert": {
+      "summary": "Liberté d'achat et d'usage stable ; transition vers une production légale en cours.",
+      "risks": "Règles strictes sur le voisinage (nuisances) ; interdiction possible pour les non-résidents dans certaines zones.",
+      "analysis": {
+        "social": "Acceptation sociale massive ; intégration urbaine réussie du modèle Coffee shop.",
+        "racial": "Politiques de tolérance ayant réduit les tensions policières historiques.",
+        "economic": "Revenus fiscaux massifs réinjectés dans la santé publique depuis des décennies."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis aux Pays-Bas"
+  },
+  "PT": {
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "alias": "Portugal",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (Loi répressive post-dictature)",
+      "evolution": "2001 (Loi 30/2000 : dépénalisation de toutes les drogues)",
+      "context": "Modèle mondial de santé publique focalisé sur le traitement plutôt que la prison."
+    },
+    "norml_expert": {
+      "summary": "Usage personnel décriminalisé ; approche centrée sur la santé.",
+      "risks": "Possession supérieure à 10 jours de consommation considérée comme du trafic.",
+      "analysis": {
+        "social": "Réduction drastique de la stigmatisation et des morts par overdose.",
+        "racial": "Politique de non-incarcération ayant réduit les disparités systémiques.",
+        "economic": "Économies massives sur le système judiciaire ; budget réalloué au soin."
+      }
+    },
+    "wikipediaSlug": "Dépénalisation des drogues au Portugal"
+  },
+  "ES": {
+    "name": "Espagne",
+    "flag": "🇪🇸",
+    "alias": "Spain",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1967 (Loi contre le trafic, héritage franquiste)",
+      "evolution": "2015 (Ley Mordaza restreignant la culture visible)",
+      "context": "Modèle hybride basé sur le droit constitutionnel à la vie privée."
+    },
+    "norml_expert": {
+      "summary": "Tolérance élevée dans l'espace privé et les clubs ; répression publique forte.",
+      "risks": "Amendes administratives lourdes pour consommation publique ; transport risqué.",
+      "analysis": {
+        "social": "Clivage entre tolérance associative et répression policière de rue.",
+        "racial": "Usage de la loi 'Mordaza' ciblant disproportionnellement les minorités.",
+        "economic": "Économie souterraine persistante malgré le succès mondial des Clubs Social Cannabis."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en Espagne"
+  },
+  "IT": {
+    "name": "Italie",
+    "flag": "🇮🇹",
+    "alias": "Italy",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1990 (Loi Iervolino-Vassalli, extrêmement répressive)",
+      "evolution": "2023 (Arrêt de la Cour de cassation sur l'auto-culture de petite taille)",
+      "context": "Dépénalisation de l'usage personnel mais forte instabilité politique."
+    },
+    "norml_expert": {
+      "summary": "Usage personnel décriminalisé mais risques administratifs fréquents.",
+      "risks": "Suspension de permis de conduire et de passeport en cas de contrôle positif (même sans usage récent).",
+      "analysis": {
+        "social": "Forte stigmatisation par les gouvernements conservateurs ; lutte associative dynamique.",
+        "racial": "Contrôles abusifs sur les populations immigrées sous prétexte de lutte anti-drogue.",
+        "economic": "Marché noir contrôlé par les mafias (estimé à 6 Mds€/an) ; perte fiscale majeure."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en Italie"
+  },
+  "BE": {
+    "name": "Belgique",
+    "flag": "🇧🇪",
+    "alias": "Belgium",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1921 (Loi sur les substances toxiques)",
+      "evolution": "2003 (Directive sur la tolérance de 3g/1 plant - souvent remise en cause)",
+      "context": "Flou juridique persistant entre tolérance et application stricte par zone (ex: Anvers)."
+    },
+    "norml_expert": {
+      "summary": "Tolérance fragile ; climat de plus en plus répressif dans les grandes villes.",
+      "risks": "Procès-verbaux simplifiés systématiques ; saisie immédiate même pour usage personnel.",
+      "analysis": {
+        "social": "Incertitude permanente de l'usager ; disparité notable entre Wallonie et Flandre.",
+        "racial": "Usage des contrôles drogues comme levier de pression dans les quartiers populaires.",
+        "economic": "Inertie politique bloquant un marché légal estimé à plusieurs centaines de millions d'euros."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en Belgique"
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "alias": "Luxembourg",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1973 (Loi sur les stupéfiants)",
+      "evolution": "2023 (Légalisation de l'auto-culture domestique)",
+      "context": "Progressisme pragmatique visant à limiter le marché noir."
+    },
+    "norml_expert": {
+      "summary": "Liberté domestique totale (4 plants) ; interdiction stricte de vente commerciale.",
+      "risks": "Consommation publique et transport interdits ; sanctions maintenues hors cadre privé.",
+      "analysis": {
+        "social": "Normalisation de la consommation privée ; focus sur la santé publique.",
+        "racial": "Politique de réduction des risques minimisant les tensions policières.",
+        "economic": "Économies sur les procédures judiciaires mineures ; absence de revenus fiscaux (pas de vente)."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Luxembourg"
+  },
+  "MT": {
+    "name": "Malte",
+    "flag": "🇲🇹",
+    "alias": "Malta",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi britannique)",
+      "evolution": "2021 (Premier pays de l'Union Européenne à légaliser intégralement l'usage récréatif et la culture via des clubs)",
+      "context": "Modèle basé sur les 'Cannabis Social Clubs' non lucratifs pour éviter la commercialisation agressive."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'usager inscrit en club ; possession publique tolérée (7g).",
+      "risks": "Consommation publique interdite (amende 235€) ; culture visible de l'extérieur prohibée.",
+      "analysis": {
+        "social": "Victoire majeure des droits civils en Méditerranée.",
+        "racial": "Réduction drastique des interactions inutiles entre police et jeunesse.",
+        "economic": "Économie associative solidaire éclipsant le marché noir traditionnel."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Malte"
+  },
+  "CZ": {
+    "name": "Tchéquie",
+    "flag": "🇨🇿",
+    "alias": "Czechia",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2010 (Dépénalisation) ; 2024-2025 (Adoption de la loi sur le marché régulé instaurant la vente contrôlée)",
+      "context": "En 2026, la Tchéquie devient le premier pays d'Europe Centrale à réguler entièrement le commerce récréatif."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle totale ; modèle de pragmatisme européen.",
+      "risks": "Vente réservée aux adultes (21+) dans des points de vente licenciés ; export interdit hors UE.",
+      "analysis": {
+        "social": "Tradition de liberté individuelle respectée ; usage intégré à la culture de Tbilissi.",
+        "racial": "Absence de profilage ; approche purement administrative des écarts.",
+        "economic": "Revenus fiscaux massifs réalloués à la prévention et au traitement des addictions."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en Tchéquie"
+  },
+  "AT": {
+    "name": "Autriche",
+    "flag": "🇦🇹",
+    "alias": "Austria",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1951 (Loi post-guerre)",
+      "evolution": "2016 (Décriminalisation partielle de l'usage personnel)",
+      "context": "Zone grise : vente de boutures légale mais usage de fleurs THC interdit."
+    },
+    "norml_expert": {
+      "summary": "Tolérance modérée ; risques judiciaires en cas de récidive.",
+      "risks": "Signalement obligatoire aux autorités de santé en cas de consommation détectée.",
+      "analysis": {
+        "social": "Incohérence légale (boutures autorisées) créant une confusion sociale.",
+        "racial": "Contrôles fréquents dans les zones de transit (gares).",
+        "economic": "Forte industrie locale liée à la culture (matériel/clones) tolérée."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Austria"
+  },
+  "CH": {
+    "name": "Suisse",
+    "flag": "🇨🇭",
+    "alias": "Switzerland",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1951 (Loi fédérale sur les stupéfiants)",
+      "evolution": "2023-2026 (Lancement des essais pilotes de vente régulée (Züri Can, etc.))",
+      "context": "Pragmatisme helvétique : tolérance de l'usage et expérimentation de vente."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée via CBD (<1%) et essais pilotes récréatifs.",
+      "risks": "Amende de 100 CHF pour possession >10g hors essais ; règles routières strictes.",
+      "analysis": {
+        "social": "Approche libérale déstigmatisée ; forte culture du chanvre légal.",
+        "racial": "Police focalisée sur le deal de rue violent plutôt que sur l'usager.",
+        "economic": "Nouveau marché du CBD générant des millions de revenus fiscaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Suisse"
+  },
+  "GB": {
+    "name": "Royaume-Uni",
+    "flag": "🇬🇧",
+    "alias": "United Kingdom",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1928 (Dangerous Drugs Act)",
+      "evolution": "2018 (Légalisation restrictive du cannabis médical)",
+      "context": "Class B drug : répression maintenue malgré des appels à la réforme."
+    },
+    "norml_expert": {
+      "summary": "Liberté quasi nulle ; risque pénal réel pour l'usager récréatif.",
+      "risks": "Cannabis Warnings (police), amendes, ou prison pour récidive.",
+      "analysis": {
+        "social": "Criminalisation touchant durement les classes populaires (Council estates).",
+        "racial": "Le 'Stop and Search' cible massivement les communautés noires pour le cannabis.",
+        "economic": "Coût carcéral élevé ; lobbying actif pour un marché légal post-Brexit."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United Kingdom"
+  },
+  "IE": {
+    "name": "Irlande",
+    "flag": "🇮🇪",
+    "alias": "Ireland",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1977 (Misuse of Drugs Act)",
+      "evolution": "2019 (Medical Cannabis Access Programme)",
+      "context": "Politique répressive stricte, bien que le débat sur la dépénalisation progresse."
+    },
+    "norml_expert": {
+      "summary": "Liberté limitée ; risque pénal pour possession simple.",
+      "risks": "Amendes lourdes, casier judiciaire possible, surveillance policière accrue.",
+      "analysis": {
+        "social": "Stigmatisation forte ; accès au médical très restreint et bureaucratique.",
+        "racial": "Contrôles disproportionnés dans les zones urbaines défavorisées.",
+        "economic": "Perte de revenus fiscaux potentiels ; coût élevé de la répression pénale."
+      }
+    },
+    "wikipediaSlug": "Cannabis_en_Irlande"
+  },
+  "PL": {
+    "name": "Pologne",
+    "flag": "🇵🇱",
+    "alias": "Poland",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1997 (Loi sur la prévention de la toxicomanie)",
+      "evolution": "2017 (Légalisation du cannabis médical)",
+      "context": "Lois très strictes sur la possession, malgré un marché médical en croissance."
+    },
+    "norml_expert": {
+      "summary": "Liberté quasi nulle pour l'usage récréatif ; risque pénal sévère.",
+      "risks": "Peines de prison effectives pour possession, même minime.",
+      "analysis": {
+        "social": "Forte stigmatisation ; clivage entre patients médicaux et usagers récréatifs.",
+        "racial": "Contrôles policiers fréquents basés sur le profilage.",
+        "economic": "Marché noir dominant ; manque à gagner fiscal important."
+      }
+    },
+    "wikipediaSlug": "Cannabis_en_Pologne"
+  },
+  "SE": {
+    "name": "Suède",
+    "flag": "🇸🇪",
+    "alias": "Sweden",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930 (Influence des conventions internationales)",
+      "evolution": "1988 (Criminalisation de la détection de drogues dans le sang)",
+      "context": "Zéro tolérance : l'une des politiques les plus dures d'Europe, axée sur une société sans drogue."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; stigmatisation sociale et policière extrême.",
+      "risks": "Tests urinaires forcés par la police sur simple 'suspicion' ; mention systématique au casier.",
+      "analysis": {
+        "social": "Marginalisation durable des usagers ; refus total de la réduction des risques.",
+        "racial": "Forte corrélation entre contrôles drogues et quartiers à forte population immigrée.",
+        "economic": "Poids financier énorme pour la police ; refus d'un marché qui rapporterait 1 Md€/an."
+      }
+    },
+    "wikipediaSlug": "Drogues en Suède"
+  },
+  "NO": {
+    "name": "Norvège",
+    "flag": "🇳🇴",
+    "alias": "Norway",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1964 (Loi sur les stupéfiants)",
+      "evolution": "2021 (Rejet parlementaire de la réforme de dépénalisation)",
+      "context": "Politique conservatrice malgré une forte demande de réforme sociale."
+    },
+    "norml_expert": {
+      "summary": "Liberté restreinte ; approche pénale prédominante.",
+      "risks": "Amendes systématiques, risque de poursuites pénales pour récidive.",
+      "analysis": {
+        "social": "Décalage entre l'opinion publique libérale et la loi répressive.",
+        "racial": "Contrôles ciblés dans les zones urbaines à forte diversité.",
+        "economic": "Coûts judiciaires élevés ; absence de régulation malgré le potentiel économique."
+      }
+    },
+    "wikipediaSlug": "Cannabis_en_Norvège"
+  },
+  "FI": {
+    "name": "Finlande",
+    "flag": "🇫🇮",
+    "alias": "Finland",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1966 (Loi sur les stupéfiants)",
+      "evolution": "2001 (Durcissement des peines pour usage)",
+      "context": "Politique de tolérance zéro, très axée sur la répression pénale."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal systématique.",
+      "risks": "Amendes, casier judiciaire, et surveillance policière constante.",
+      "analysis": {
+        "social": "Stigmatisation forte ; accès au médical extrêmement limité.",
+        "racial": "Profilage policier documenté lors des contrôles de rue.",
+        "economic": "Perte fiscale majeure ; coût élevé de la répression."
+      }
+    },
+    "wikipediaSlug": "Cannabis_en_Finlande"
+  },
+  "DK": {
+    "name": "Danemark",
+    "flag": "🇩🇰",
+    "alias": "Denmark",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1955 (Loi restrictive)",
+      "evolution": "2024 (Fermeture forcée de Pusher Street à Christiania par la police)",
+      "context": "Fin de l'exception 'Christiania' ; climat de répression accrue."
+    },
+    "norml_expert": {
+      "summary": "Zones de tolérance historiques en train de disparaître.",
+      "risks": "Sanctions renforcées pour possession dans les 'zones de punition doublée'.",
+      "analysis": {
+        "social": "Conflit entre tradition libérale et virage sécuritaire conservateur.",
+        "racial": "Ciblage policier accru lié aux gangs internationaux (marché noir).",
+        "economic": "Potentiel fiscal immense bloqué par un État de plus en plus conservateur."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Danemark"
+  },
+  "GR": {
+    "name": "Grèce",
+    "flag": "🇬🇷",
+    "alias": "Greece",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1890 (Loi pionnière anti-haschich)",
+      "evolution": "2017 (Légalisation médicale et assouplissement de l'usage)",
+      "context": "Ouverture vers le cannabis médical pour relancer l'économie."
+    },
+    "norml_expert": {
+      "summary": "Usage personnel en zone grise ; tolérance au cas par cas.",
+      "risks": "Possession peut mener à de la détention courte si la quantité est 'significative'.",
+      "analysis": {
+        "social": "Changement de perception lié au tourisme et à l'investissement médical.",
+        "racial": "Faible impact racial direct mais pression sur les zones touristiques.",
+        "economic": "L'un des plus gros potentiels de production médicale en Europe (climat)."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Greece"
+  },
+  "RO": {
+    "name": "Roumanie",
+    "flag": "🇷🇴",
+    "alias": "Romania",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2024 (Durcissement législatif majeur contre la possession)",
+      "context": "Politique répressive stricte, le cannabis est traité comme une menace pénale grave."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal sévère.",
+      "risks": "Jusqu'à 3 ans de prison pour possession simple ; aucune distinction médicale réelle.",
+      "analysis": {
+        "social": "Stigmatisation forte ; accès au médical inexistant en pratique.",
+        "racial": "Contrôle social rigide.",
+        "economic": "Perte de revenus fiscaux ; coût élevé de la répression pénale."
+      }
+    },
+    "wikipediaSlug": "Cannabis_en_Roumanie"
+  },
+  "BG": {
+    "name": "Bulgarie",
+    "flag": "🇧🇬",
+    "alias": "Bulgaria",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Assouplissement industriel mais répression inchangée pour le THC)",
+      "context": "Politique de tolérance zéro absolue pour le cannabis récréatif, classé comme 'Drogue à haut risque'."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire élevé dès la 1ère infraction.",
+      "risks": "Prison systématique pour possession ; absence de cadre médical légal pour les fleurs.",
+      "analysis": {
+        "social": "Répression féroce utilisée comme outil de contrôle social par la milice populaire.",
+        "racial": "Ciblage systématique des usagers de rue.",
+        "economic": "Emergence timide d'un export industriel de chanvre sécurisé."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Bulgarie"
+  },
+  "HU": {
+    "name": "Hongrie",
+    "flag": "🇭🇺",
+    "alias": "Hungary",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (L'un des seuls pays de l'UE s'opposant officiellement aux recommandations de l'OMS)",
+      "context": "Régime de prohibition le plus strict de l'Union Européenne en accord avec la ligne politique conservatrice."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression d'État idéologique.",
+      "risks": "2 ans de prison pour possession de petites quantités ; surveillance policière accrue.",
+      "analysis": {
+        "social": "Utilisation de la peur de la drogue comme levier électoraliste.",
+        "racial": "Pression policière sur les lieux culturels alternatifs de Budapest.",
+        "economic": "Refus dogmatique de tout développement industriel lié au THC."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Hongrie"
+  },
+  "HR": {
+    "name": "Croatie",
+    "flag": "🇭🇷",
+    "alias": "Croatia",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2015 (Légalisation du cannabis médical) ; 2024 (Débat sur la dépénalisation totale)",
+      "context": "Approche pragmatique : usage personnel décriminalisé (amende) mais trafic sévèrement puni."
+    },
+    "norml_expert": {
+      "summary": "Liberté modérée ; usage personnel toléré administrativement.",
+      "risks": "Amendes administratives ; risque pénal en cas de détention de quantités importantes.",
+      "analysis": {
+        "social": "Transition vers une approche de santé publique.",
+        "racial": "Climat de sécurité civile stable.",
+        "economic": "Développement d'un marché médical local en croissance."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Croatie"
+  },
+  "SI": {
+    "name": "Slovénie",
+    "flag": "🇸🇮",
+    "alias": "Slovenia",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2014 (Dépénalisation de fait pour l'usage personnel) ; 2024 (Référendum consultatif sur la légalisation du médical)",
+      "context": "Tradition de tolérance progressive marquée par une forte culture de l'auto-culture."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée ; usage en privé socialement accepté.",
+      "risks": "Amandes administratives faibles ; vente commerciale non régulée persistante.",
+      "analysis": {
+        "social": "Vision de santé publique prioritaire sur la répression.",
+        "racial": "Zéro disparité notable ; climat de sécurité civile élevé.",
+        "economic": "Leader régional pour la production de machines et technologies liées au cannabis."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Slovénie"
+  },
+  "EE": {
+    "name": "Estonie",
+    "flag": "🇪🇪",
+    "alias": "Estonia",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2002 (Dépénalisation de la possession jusqu'à 7.5g)",
+      "context": "Approche administrative : la possession est une infraction mineure."
+    },
+    "norml_expert": {
+      "summary": "Liberté modérée ; usage personnel non pénalisé.",
+      "risks": "Amendes administratives ; risque pénal pour trafic.",
+      "analysis": {
+        "social": "Approche pragmatique et moderne.",
+        "racial": "Climat social stable.",
+        "economic": "Potentiel industriel pour le chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Estonie"
+  },
+  "LV": {
+    "name": "Lettonie",
+    "flag": "🇱🇻",
+    "alias": "Latvia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Maintien de la prohibition stricte)",
+      "context": "Politique répressive héritée de l'ère soviétique."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal pour récidive.",
+      "risks": "Avertissement (1ère fois), délit pénal si récidive ; prison pour trafic.",
+      "analysis": {
+        "social": "Stigmatisation forte.",
+        "racial": "Contrôle social rigide.",
+        "economic": "Absence de cadre légal."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Lettonie"
+  },
+  "LT": {
+    "name": "Lituanie",
+    "flag": "🇱🇹",
+    "alias": "Lithuania",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Échec des tentatives de dépénalisation au Parlement)",
+      "context": "Politique conservatrice malgré une pression sociale pour la réforme."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal pour possession.",
+      "risks": "Amende ou prison pour possession simple.",
+      "analysis": {
+        "social": "Débat politique polarisé.",
+        "racial": "Contrôle social rigide.",
+        "economic": "Absence de cadre légal."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Lituanie"
+  },
+  "SK": {
+    "name": "Slovaquie",
+    "flag": "🇸🇰",
+    "alias": "Slovakia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Maintien de l'une des lois les plus strictes d'Europe)",
+      "context": "Politique répressive sans distinction médicale."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal draconien.",
+      "risks": "Peines de prison sévères pour possession simple.",
+      "analysis": {
+        "social": "Stigmatisation extrême.",
+        "racial": "Contrôle social rigide.",
+        "economic": "Refus dogmatique de toute industrie."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Slovaquie"
+  },
+  "CY": {
+    "name": "Chypre",
+    "flag": "🇨🇾",
+    "alias": "Cyprus",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Mandat britannique)",
+      "evolution": "2019 (Légalisation intégrale de la culture et de la distribution de cannabis médical)",
+      "context": "Ambition de devenir un paradis médical et un hub de production pour l'Europe du Sud."
+    },
+    "norml_expert": {
+      "summary": "Usage récréatif interdit ; cadre médical très attractif pour les investisseurs.",
+      "risks": "Maintien de sanctions pénales pour l'usage récréatif hors cadre médical.",
+      "analysis": {
+        "social": "Débat en cours sur la décriminalisation totale guidée par le médical.",
+        "racial": "Contrôle des flux transfrontaliers liés à la division de l'île.",
+        "economic": "Potentiel de revenus fiscaux massifs via les licences d'exportation."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Chypre"
+  },
+  "IS": {
+    "name": "Islande",
+    "flag": "🇮🇸",
+    "alias": "Iceland",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1969",
+      "evolution": "2024 (Débats parlementaires sur la décriminalisation sans succès pour l'instant)",
+      "context": "Prohibition stricte au niveau national."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Lourdes amendes et prison pour possession simple.",
+      "analysis": {
+        "social": "Usage répandu mais caché.",
+        "racial": "N/A",
+        "economic": "Manque à gagner fiscal."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Islande"
+  },
+  "RU": {
+    "name": "Russie",
+    "flag": "🇷🇺",
+    "alias": "Russia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Stalinisme)",
+      "evolution": "2023 (Répression accrue et utilisation diplomatique des arrestations pour stupéfiants)",
+      "context": "Prohibition stricte et dangereuse malgré une dépénalisation administrative théorique pour <6g."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle nulle ; risque d'instrumentalisation judiciaire extrême.",
+      "risks": "Prison systématique même pour traces (cas Brittney Griner) ; arbitraire total des forces de l'ordre.",
+      "analysis": {
+        "social": "Climat de peur ; usage clandestin risqué et stigmatisé.",
+        "racial": "Ciblage préférentiel des ressortissants étrangers à des fins politiques.",
+        "economic": "Refus total de toute industrie légale malgré un potentiel agricole immense."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Russie"
+  },
+  "UA": {
+    "name": "Ukraine",
+    "flag": "🇺🇦",
+    "alias": "Ukraine",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence soviétique)",
+      "evolution": "2024 (Légalisation médicale historique) ; 2026 (Accès généralisé aux soins pour les PTSD de guerre)",
+      "context": "L'Ukraine s'est imposée comme un modèle de thérapie du trauma via le cannabis régulé."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée pour les besoins de santé ; régulation stricte de la culture.",
+      "risks": "Vente récréative non encadrée ; contrôles sur les licences de production industrielles.",
+      "analysis": {
+        "social": "Héroïsation du cannabis médical comme allié du soldat et du citoyen traumatisé.",
+        "racial": "Cohésion nationale autour du droit à la santé physique et mentale.",
+        "economic": "Emergence d'une filière de haute technologie médicinale (fleurs et extraits)."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Ukraine"
+  },
+  "RS": {
+    "name": "Serbie",
+    "flag": "🇷🇸",
+    "alias": "Serbia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Maintien de la prohibition stricte malgré la production informelle régionale)",
+      "context": "L'un des pays les plus conservateurs de la région Balkans concernant les stupéfiants."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Peines de prison de 3 ans même pour possession minime ; contrôles policiers fréquents.",
+      "analysis": {
+        "social": "Stigmatisation sociale forte ; opposition religieuse et politique à tout assouplissement.",
+        "racial": "Contrôle social via la législation répressive.",
+        "economic": "Absence de cadre légal industriel malgré une tradition de chanvre textile."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Serbie"
+  },
+  "AL": {
+    "name": "Albanie",
+    "flag": "🇦🇱",
+    "alias": "Albania",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Légalisation du cannabis médical pour l'exportation)",
+      "context": "Transition économique vers l'export médical tout en réprimant l'usage local."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle pour le citoyen ; hub d'exportation médical.",
+      "risks": "Prison pour possession ; corruption policière.",
+      "analysis": {
+        "social": "Contradiction entre export légal et répression locale.",
+        "racial": "Contrôle social rigide.",
+        "economic": "Potentiel d'exportation majeur."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Albanie"
+  },
+  "AX": {
+    "name": "Åland",
+    "flag": "🇦🇽",
+    "alias": "Åland Islands",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Territoire autonome finlandais : application de la loi finlandaise."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire finlandaise.",
+      "risks": "Amendes et sanctions pénales.",
+      "analysis": {
+        "social": "Conservatisme insulaire.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Finland"
+  },
+  "FO": {
+    "name": "Îles Féroé",
+    "flag": "🇫🇴",
+    "alias": "Faroe Islands",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Territoire autonome danois : lois strictes et conservatisme social."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; surveillance douanière et policière.",
+      "risks": "Amendes lourdes et saisies.",
+      "analysis": {
+        "social": "Stigmatisation forte.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Denmark"
+  },
+  "GI": {
+    "name": "Gibraltar",
+    "flag": "🇬🇮",
+    "alias": "Gibraltar",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2017 (Décriminalisation) ; 2021 (Légalisation médicale)",
+      "context": "Position libérale carrefour entre Europe et Afrique."
+    },
+    "norml_expert": {
+      "summary": "Liberté modérée ; médical bien structuré.",
+      "risks": "Possession publique réglementée ; trafic pénal.",
+      "analysis": {
+        "social": "Acceptation croissante.",
+        "racial": "N/A",
+        "economic": "Potentiel de hub médical régional."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Gibraltar"
+  },
+  "GG": {
+    "name": "Guernesey",
+    "flag": "🇬🇬",
+    "alias": "Guernsey",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2020 (Décriminalisation de 10g et accès médical facilité)",
+      "context": "Dépendance de la Couronne pionnière dans la réforme."
+    },
+    "norml_expert": {
+      "summary": "Liberté médicale réelle ; usager récréatif protégé par la décriminalisation.",
+      "risks": "Limites de possession strictes.",
+      "analysis": {
+        "social": "Normalisation médicale rapide.",
+        "racial": "N/A",
+        "economic": "Secteur médical en expansion."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Guernsey"
+  },
+  "IM": {
+    "name": "Île de Man",
+    "flag": "🇮🇲",
+    "alias": "Isle of Man",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2022 (Décriminalisation de 21g et licences médicales)",
+      "context": "Réforme majeure pour simplifier l'accès thérapeutique."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle via le médical ; décriminalisation effective.",
+      "risks": "Vente récréative interdite.",
+      "analysis": {
+        "social": "Changement de culture radical.",
+        "racial": "N/A",
+        "economic": "Nouveaux revenus agricoles."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the Isle of Man"
+  },
+  "JE": {
+    "name": "Jersey",
+    "flag": "🇯🇪",
+    "alias": "Jersey",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2019 (Légalisation médicale) ; 2021 (Décriminalisation de facto)",
+      "context": "Cadre médical parmi les plus avancés des îles britanniques."
+    },
+    "norml_expert": {
+      "summary": "Liberté médicale élevée ; tolérance récréative en hausse.",
+      "risks": "Poursuites pour possession hors cadre légal.",
+      "analysis": {
+        "social": "Forte acceptation sociale.",
+        "racial": "N/A",
+        "economic": "Industrie médicale leader."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Jersey"
+  },
+  "SJ": {
+    "name": "Svalbard et Jan Mayen",
+    "flag": "🇸🇯",
+    "alias": "Svalbard and Jan Mayen",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Territoire norvégien : application de la loi norvégienne dans des conditions extrêmes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; zone de contrôle absolu.",
+      "risks": "Sanctions pénales norvégiennes.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Norway"
+  },
+  "MK": {
+    "name": "Macédoine du Nord",
+    "flag": "🇲🇰",
+    "alias": "North Macedonia",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2016 (Légalisation du cannabis médical)",
+      "context": "Hub de production médicale pour l'Europe."
+    },
+    "norml_expert": {
+      "summary": "Liberté faible pour le récréatif ; hub médical.",
+      "risks": "Prison pour possession récréative.",
+      "analysis": {
+        "social": "Débat sur la légalisation récréative.",
+        "racial": "Contrôle social.",
+        "economic": "Revenus d'exportation importants."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Macédoine du Nord"
+  },
+  "BA": {
+    "name": "Bosnie",
+    "flag": "🇧🇦",
+    "alias": "Bosnia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Impasse politique bloquant la légalisation médicale malgré un fort soutien populaire)",
+      "context": "Stagnation législative due aux blocages institutionnels fédéraux."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; traque judiciaire active des usagers.",
+      "risks": "Prison pour possession (jusqu'à 1 an) ; arbitraire des entités régionales.",
+      "analysis": {
+        "social": "Demande médicale forte non satisfaite par l'État.",
+        "racial": "Contrôle policier rigide.",
+        "economic": "Pertes financières liées à l'absence de régulation du marché informel massif."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Bosnie-Herzégovine"
+  },
+  "MD": {
+    "name": "Moldavie",
+    "flag": "🇲🇩",
+    "alias": "Moldova",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence soviétique)",
+      "evolution": "2023 (Maintien de la prohibition)",
+      "context": "Politique répressive stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Stigmatisation.",
+        "racial": "Contrôle social.",
+        "economic": "Absence de cadre légal."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Moldavie"
+  },
+  "BY": {
+    "name": "Bélarus",
+    "flag": "🇧🇾",
+    "alias": "Belarus",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence soviétique)",
+      "evolution": "2023 (Répression parmi les plus féroces au monde : le 'Code de la Peur')",
+      "context": "Usage traité comme un crime d'État grave avec des peines minimales démesurées."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal extrême.",
+      "risks": "2 à 5 ans de prison pour possession de traces ; aucune clémence judiciaire.",
+      "analysis": {
+        "social": "Climat de surveillance totale ; stigmatisation paranoïaque de l'usager.",
+        "racial": "Contrôle politique total via la législation pénale.",
+        "economic": "Refus dogmatique de toute industrie ; économie scellée aux ordres du régime."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Bélarus"
+  },
+  "AD": {
+    "name": "Andorre",
+    "flag": "🇦🇩",
+    "alias": "Andorra",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Loi stricte de la principauté."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire important.",
+      "risks": "Prison et amendes lourdes pour possession.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis en Andorre"
+  },
+  "SM": {
+    "name": "Saint-Marin",
+    "flag": "🇸🇲",
+    "alias": "San Marino",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2023 (Adoption d'un cadre médical)",
+      "context": "Ouverture progressive vers le médical."
+    },
+    "norml_expert": {
+      "summary": "Liberté médicale ; usage récréatif toléré mais non légal.",
+      "risks": "Risque minimal pour l'usage privé ; sanctions pour trafic.",
+      "analysis": {
+        "social": "Acceptation croissante.",
+        "racial": "N/A",
+        "economic": "Secteur médical naissant."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Saint-Marin"
+  },
+  "VA": {
+    "name": "Vatican",
+    "flag": "🇻🇦",
+    "alias": "Vatican City",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Interdiction absolue doctrinale et civile."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; surveillance totale.",
+      "risks": "Sanctions pénales immédiates ; expulsion du territoire.",
+      "analysis": {
+        "social": "Désapprobation morale totale.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis au Vatican"
+  },
+  "MC": {
+    "name": "Monaco",
+    "flag": "🇲🇨",
+    "alias": "Monaco",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Prohibition stricte au sein de la principauté."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; surveillance policière ultra-vigilante.",
+      "risks": "Prison et expulsion pour possession simple.",
+      "analysis": {
+        "social": "Rejet social des stupéfiants.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis à Monaco"
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "alias": "Liechtenstein",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2023",
+      "context": "Loi calquée sur ses voisins."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal réel.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis au Liechtenstein"
+  }
+}

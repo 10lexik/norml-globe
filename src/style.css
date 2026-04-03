@@ -1,0 +1,109 @@
+/* Fonts locales : Platform */
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-Hairline-Web.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-HairlineItalic-Web.woff2') format('woff2');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-Light-Web.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-LightItalic-Web.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-Regular-Web.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-RegularItalic-Web.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-Medium-Web.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-MediumItalic-Web.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-Bold-Web.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Platform';
+  src: url('/fonts/platform/Platform-BoldItalic-Web.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--color-bg-main);
+  font-family: 'Platform', system-ui, -apple-system, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+/* Scrollbar globale */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--color-border-dim); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-border-soft); }
+
+/* Sélection texte */
+::selection { background: var(--color-border-dim); color: var(--color-text-primary); }
+
+/* Focus visible accessible */
+:focus-visible {
+  outline: 2px solid var(--color-legal);
+  outline-offset: 2px;
+  border-radius: 4px;
+}

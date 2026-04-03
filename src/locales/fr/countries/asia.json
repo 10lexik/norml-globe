@@ -1,0 +1,1175 @@
+{
+  "TH": {
+    "name": "Thaïlande",
+    "flag": "🇹🇭",
+    "alias": "Thailand",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1935 (Cannabis Act originel)",
+      "evolution": "2025 (Virage restrictif : retrait du récréatif après la décrim de 2022)",
+      "context": "Retour vers une régulation strictement médicale après une période de 'far-west' légal."
+    },
+    "norml_expert": {
+      "summary": "Zone grise de transition ; ordonnance médicale désormais requise pour l'achat.",
+      "risks": "Fermeture des dispensaires non-cliniques ; lourdes amendes pour l'usage public récréatif.",
+      "analysis": {
+        "social": "Incertitude pour les milliers de petits producteurs locaux.",
+        "racial": "Libération historique de dizaines de milliers de détenus 'drogues' en 2022.",
+        "economic": "Investissements massifs (milliards) désormais menacés par l'instabilité législative."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Thailand"
+  },
+  "JP": {
+    "name": "Japon",
+    "flag": "🇯🇵",
+    "alias": "Japan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1948 (Cannabis Control Law imposée par l'occupation US)",
+      "evolution": "2023 (Légalisation des médicaments dérivés du cannabis pour les patients)",
+      "context": "Politique de tolérance zéro absolue pour le récréatif ; stigmatisation sociale extrême."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle nulle ; cadre médical très restreint et pharmaceutique.",
+      "risks": "Possession simple passible de 5 ans de prison ; expulsion systématique pour les étrangers.",
+      "analysis": {
+        "social": "Stigmatisation culturelle profonde ; l'usager est perçu comme un criminel grave.",
+        "racial": "Contrôles policiers ciblés sur les résidents étrangers.",
+        "economic": "Ouverture timide du marché médical pour les grands groupes pharmaceutiques."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Japon"
+  },
+  "CN": {
+    "name": "Chine",
+    "flag": "🇨🇳",
+    "alias": "China",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence des conventions internationales)",
+      "evolution": "2021 (Interdiction totale du CBD dans les cosmétiques)",
+      "context": "Paradoxe : plus grand producteur mondial de chanvre industriel, mais répression féroce du THC."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression d'État implacable.",
+      "risks": "Centres de réhabilitation forcés pour usage ; peine de mort possible pour trafic.",
+      "analysis": {
+        "social": "Traitement de l'usage comme un fléau social et une menace pour l'ordre public.",
+        "racial": "Surveillance massive des populations et des consommations.",
+        "economic": "Leader mondial des brevets sur le cannabis et de la fibre de chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Chine"
+  },
+  "IN": {
+    "name": "Inde",
+    "flag": "🇮🇳",
+    "alias": "India",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1985 (Narcotic Drugs and Psychotropic Substances Act imposé par la pression US)",
+      "evolution": "2024 (Normalisation croissante de l'usage médical ayurvédique et industriel)",
+      "context": "Le 'Bhang' (feuilles) reste licite au niveau fédéral par tradition religieuse tandis que la 'Ganja' (fleurs) est interdite."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée via la tradition religieuse (Bhang) ; cadre industriel en plein essor.",
+      "risks": "Sanctions pénales pour possession de fleurs (Ganja) et résine (Charas) selon les États.",
+      "analysis": {
+        "social": "Utilisation spirituelle multiséculaire difficilement réprimable dans les faits.",
+        "racial": "Impact de la loi moderne ciblant les usagers pauvres de rue.",
+        "economic": "Réémergence d'une économie florissante du chanvre et des soins ayurvédiques."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Inde"
+  },
+  "ID": {
+    "name": "Indonésie",
+    "flag": "🇮🇩",
+    "alias": "Indonesia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1927 (Loi coloniale hollandaise)",
+      "evolution": "2022 (Rejet par la Cour constitutionnelle de la légalisation du cannabis médical)",
+      "context": "Politique de tolérance zéro absolue : classé comme substance de catégorie 1 (sans valeur médicale)."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger de mort pour l'usager et le trafiquant.",
+      "risks": "Peine de mort fréquemment prononcée pour trafic ; 4 à 12 ans de prison pour possession simple.",
+      "analysis": {
+        "social": "Stigmatisation d'État totale ; le cannabis est perçu comme une menace existentielle.",
+        "racial": "Application de peines sévères aux étrangers pour l'exemple touristique (Bali).",
+        "economic": "Refus dogmatique de toute opportunité agricole malgré un climat idéal."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Indonésie"
+  },
+  "MY": {
+    "name": "Malaisie",
+    "flag": "🇲🇾",
+    "alias": "Malaysia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1952 (Dangerous Drugs Act)",
+      "evolution": "2023 (Abolition de la peine de mort obligatoire ; discussions sur le médical)",
+      "context": "Répression sévère mais début de transition vers une approche médicale pragmatique."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; cadre médical futur en cours de débat législatif.",
+      "risks": "Coups de canne et emprisonnement pour possession ; prison à vie pour trafic.",
+      "analysis": {
+        "social": "Débat croissant sur l'échec de la 'guerre contre la drogue'.",
+        "racial": "Application stricte des lois sur les populations marginalisées.",
+        "economic": "Ambition de devenir un centre régional pour le CBD médical thérapeutique."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Malaisie"
+  },
+  "SG": {
+    "name": "Singapour",
+    "flag": "🇸🇬",
+    "alias": "Singapore",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence coloniale)",
+      "evolution": "2023 (Exécutions maintenues pour trafic de cannabis malgré les pressions internationales)",
+      "context": "L'un des environnements les plus hostiles au monde pour tout usage de stupéfiants."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger de mort imminent pour les trafiquants.",
+      "risks": "Peine de mort obligatoire (>500g) ; 10 ans de prison et tests urinaires inopinés pour les citoyens.",
+      "analysis": {
+        "social": "Contrôle social total ; stigmatisation d'État absolue.",
+        "racial": "Application inflexible des lois sans considération des droits humains fondamentaux.",
+        "economic": "Refus total de toute industrie liée au cannabis."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Singapour"
+  },
+  "KR": {
+    "name": "Corée du Sud",
+    "flag": "🇰🇷",
+    "alias": "South Korea",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1976 (Cannabis Control Act)",
+      "evolution": "2018 (Premier pays d'Asie de l'Est à autoriser le cannabis médical - Sativex/Epidiolex)",
+      "context": "Législation draconienne : un citoyen coréen consommant légalement à l'étranger peut être poursuivi à son retour."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal extraterritorial pour les citoyens.",
+      "risks": "Prison pour usage simple ; tests capillaires fréquents lors des vagues de répression.",
+      "analysis": {
+        "social": "Tabou social massif ; l'image publique est détruite par toute association criminelle.",
+        "racial": "Ciblage des célébrités et des étrangers lors des contrôles.",
+        "economic": "Leader potentiel dans la R&D médicale pharmaceutique en Asie."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Corée du Sud"
+  },
+  "PH": {
+    "name": "Philippines",
+    "flag": "🇵🇭",
+    "alias": "Philippines",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1972 (Dangerous Drugs Act)",
+      "evolution": "2024 (Progrès législatif majeur du Compassionate Medical Cannabis Bill au Congrès)",
+      "context": "Contraste entre une 'guerre contre la drogue' de rue violente et une ouverture médicale au Parlement."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle pour le récréatif ; futur cadre médical imminent.",
+      "risks": "Prison à vie pour possession simple dans les cas graves ; exécutions extrajudiciaires (période Duterte).",
+      "analysis": {
+        "social": "Climat de peur tempéré par une demande croissante de soins pour les enfants épileptiques.",
+        "racial": "Répression touchant majoritairement les populations des zones urbaines précaires.",
+        "economic": "Potentiel agricole de production locale pour réduire le coût des soins."
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Philippines"
+  },
+  "VN": {
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "alias": "Vietnam",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Maintien de la tolérance zéro malgré les réformes des pays voisins)",
+      "context": "Le cannabis est classé comme un stupéfiant dangereux ; aucune valeur médicale reconnue au niveau national."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression policière sévère.",
+      "risks": "Peine de mort pour trafic (>5kg) ; internement dans des centres de réhabilitation forcés pour usage.",
+      "analysis": {
+        "social": "Stigmatisation forte ; l'usage est perçu comme antisocial et criminel.",
+        "racial": "Contrôle social strict exercé sur la jeunesse.",
+        "economic": "Perte d'opportunités industrielles face à la concurrence thaïlandaise."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Vietnam"
+  },
+  "KH": {
+    "name": "Cambodge",
+    "flag": "🇰🇭",
+    "alias": "Cambodia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Maintien de la prohibition)",
+      "context": "Pizzas dites 'Happy' occasionnellement tolérées pour les touristes à Phnom Penh."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression policière.",
+      "risks": "Prison pour possession ; corruption.",
+      "analysis": {
+        "social": "Stigmatisation.",
+        "racial": "Contrôle social.",
+        "economic": "Absence de cadre légal."
+      }
+    },
+    "wikipediaSlug": "Cannabis_au_Cambodge"
+  },
+  "LA": {
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "alias": "Laos",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Protectorat français)",
+      "evolution": "2023 (Régulation autorisant la culture et la transformation de CBD médical et industriel)",
+      "context": "Inflexion vers un modèle de production de CBD pour l'exportation."
+    },
+    "norml_expert": {
+      "summary": "Usage récréatif interdit ; ouverture industrielle pour le CBD.",
+      "risks": "Prison et amendes lourdes pour possession de fleurs THC ; corruption policière.",
+      "analysis": {
+        "social": "Usage traditionnel persistant dans les zones rurales isolées.",
+        "racial": "Contrôle social lié aux enjeux géopolitiques du Triangle d'Or.",
+        "economic": "Potentiel de diversification agricole majeur via le chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Laos"
+  },
+  "MM": {
+    "name": "Myanmar",
+    "flag": "🇲🇲",
+    "alias": "Burma",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence coloniale)",
+      "evolution": "2023 (Instrumentalisation de la répression anti-drogue dans le cadre du conflit civil)",
+      "context": "Zéro tolérance officielle ; le cannabis est géré par les lois pénales militaires drastiques."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire extrême.",
+      "risks": "15 ans de prison à perpétuité pour possession/trafic ; absence totale d'État de droit.",
+      "analysis": {
+        "social": "Usage clandestin dangereux dans un climat de guerre civile.",
+        "racial": "Répression utilisée comme arme politique par la junte.",
+        "economic": "Économie souterraine gérée par des groupes armés hors contrôle étatique."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Myanmar"
+  },
+  "PK": {
+    "name": "Pakistan",
+    "flag": "🇵🇰",
+    "alias": "Pakistan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Lois coloniales)",
+      "evolution": "2024 (Ratification de la politique nationale sur le chanvre pour l'export médical)",
+      "context": "Usage spirituel dans les sanctuaires Sufis toléré de fait ; lois pénales strictes ailleurs."
+    },
+    "norml_expert": {
+      "summary": "Liberté limitée au cadre religieux informel ; ouverture industrielle pour le chanvre.",
+      "risks": "Prison pour possession publique récréative ; peine de mort applicable pour trafic lourd.",
+      "analysis": {
+        "social": "Ancrage culturel profond malgré la prohibition moderne.",
+        "racial": "Répression touchant disproportionnellement les populations pauvres.",
+        "economic": "Marché d'exportation de chanvre industriel en pleine structuration."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Pakistan"
+  },
+  "AF": {
+    "name": "Afghanistan",
+    "flag": "🇦🇫",
+    "alias": "Afghanistan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2021 (Retour des Talibans : interdiction totale et destruction des cultures)",
+      "context": "Ancien haut lieu de production de haschich, désormais soumis à une interdiction religieuse et étatique stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression religieuse sévère.",
+      "risks": "Peines corporelles et emprisonnement pour usage ou culture ; confiscation totale.",
+      "analysis": {
+        "social": "Destruction d'un patrimoine génétique de cannabis ancestral (landraces).",
+        "racial": "Contrôle social extrême via la police des mœurs.",
+        "economic": "Effondrement d'une économie agricole traditionnelle informelle au profit d'un vide économique."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Afghanistan"
+  },
+  "IR": {
+    "name": "Iran",
+    "flag": "🇮🇷",
+    "alias": "Iran",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2023 (Maintien de sanctions sévères malgré un débat timide sur le médical)",
+      "context": "Usage traditionnel de haschich persistant mais criminalisé de façon sporadique et imprévisible."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle faible ; risque de sanctions corporelles et pénales.",
+      "risks": "Coups de fouet et prison pour possession ; exécutions pour gros trafics.",
+      "analysis": {
+        "social": "Stigmatisation publique forte en contradiction avec certains usages privés.",
+        "racial": "Instrumentalisation de la lutte anti-drogue pour le contrôle politique.",
+        "economic": "Usage industriel du chanvre toléré et régulé pour la fibre."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Iran"
+  },
+  "IQ": {
+    "name": "Irak",
+    "flag": "🇮🇶",
+    "alias": "Iraq",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Maintien de la prohibition)",
+      "context": "Politique répressive stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Stigmatisation.",
+        "racial": "Contrôle social.",
+        "economic": "Absence de cadre légal."
+      }
+    },
+    "wikipediaSlug": "Cannabis_en_Irak"
+  },
+  "SA": {
+    "name": "Arabie Saoudite",
+    "flag": "🇸🇦",
+    "alias": "Saudi Arabia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Application de la Charia)",
+      "evolution": "2023 (Maintien de la tolérance zéro malgré les réformes sociales Vision 2030)",
+      "context": "L'un des environnements les plus hostiles au monde pour les usagers de drogues."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger de mort imminent pour les trafiquants.",
+      "risks": "Peine de mort par décapitation pour trafic ; prison et peines corporelles pour usage.",
+      "analysis": {
+        "social": "Stigmatisation d'État et religieuse totale.",
+        "racial": "Application inflexible des lois sur les résidents étrangers et locaux.",
+        "economic": "Refus total de toute industrie liée au cannabis/chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Arabie saoudite"
+  },
+  "AE": {
+    "name": "Émirats Arabes Unis",
+    "flag": "🇦🇪",
+    "alias": "United Arab Emirates",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1970s (Loi sur les stupéfiants)",
+      "evolution": "2022 (Réforme humanisante : remplacement de la prison par des centres de soins pour la 1ère infraction)",
+      "context": "Virage vers une approche de santé publique tout en maintenant une interdiction formelle stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; assouplissement récent privilégiant le soin à la détention.",
+      "risks": "Expulsion systématique des étrangers après traitement ; tests sanguins inopinés.",
+      "analysis": {
+        "social": "Évolution pragmatique pour préserver l'image touristique internationale.",
+        "racial": "Contrôle strict des flux transfrontaliers.",
+        "economic": "Ouverture du marché médical aux seuls produits pharmaceutiques importés approuvés."
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Émirats arabes unis"
+  },
+  "IL": {
+    "name": "Israël",
+    "flag": "🇮🇱",
+    "alias": "Israel",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (British Mandate law)",
+      "evolution": "2019 (Décriminalisation de l'usage récréatif en privé) ; 2024 (Simplification drastique de l'accès médical)",
+      "context": "Pionnier mondial absolu de la recherche (Dr Mechoulam) et premier marché médical per capita."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée ; le pays est le hub technologique mondial du cannabis.",
+      "risks": "Amandes administratives pour usage récréatif public (1000 ILS) ; vente récréative non régulée.",
+      "analysis": {
+        "social": "Normalisation sociale totale ; usage médical intégré au système de santé publique.",
+        "racial": "Réduction massive des poursuites suite à la politique de décriminalisation guidée.",
+        "economic": "Économie de plusieurs milliards de dollars via l'exportation technologique et génétique."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Israël"
+  },
+  "LB": {
+    "name": "Liban",
+    "flag": "🇱🇧",
+    "alias": "Lebanon",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Protectorat français)",
+      "evolution": "2020 (Légalisation de la culture de cannabis médical et industriel pour relancer l'économie)",
+      "context": "Premier pays arabe à légaliser la culture à des fins médicales ; héritage ancestral dans la Bekaa."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle modérée ; usage récréatif toléré mais non formellement légal.",
+      "risks": "Sanctions pénales pour possession hors cadre médical ; flou juridique lié à l'instabilité.",
+      "analysis": {
+        "social": "Réhabilitation sociale des cultivateurs de la Bekaa sortant de la clandestinité.",
+        "racial": "Pacification des zones rurales productrices via l'encadrement étatique.",
+        "economic": "Potentiel de milliards de dollars de revenus d'exportation pour l'État libanais."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Liban"
+  },
+  "SY": {
+    "name": "Syrie",
+    "flag": "🇸🇾",
+    "alias": "Syria",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2023 (Maintien de la prohibition stricte malgré la production informelle de guerre)",
+      "context": "Prohibition formelle sévère ; le cannabis est géré par les lois pénales d'exception."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire et sécuritaire permanent.",
+      "risks": "Peine de mort ou prison à vie pour trafic ; emprisonnement sévère pour usage.",
+      "analysis": {
+        "social": "Stigmatisation totale dans un climat de surveillance généralisée.",
+        "racial": "Usage utilisé comme outil de pression politique.",
+        "economic": "Économie souterraine liée aux milices échappant à tout contrôle moral ou légal."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Syrie"
+  },
+  "TR": {
+    "name": "Turquie",
+    "flag": "🇹🇷",
+    "alias": "Turkey",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1933 (Interdiction totale sous Atatürk après pression internationale)",
+      "evolution": "2016 (Légalisation de la production contrôlée dans 19 provinces à des fins médicales/scientifiques)",
+      "context": "Conservatisme social fort mais pragmatisme agricole naissant pour le chanvre industriel."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle pour le récréatif ; cadre médical restreint (Sativex).",
+      "risks": "Prison (jusqu'à 2 ans) ou cure forcée pour usage personnel ; police zélée.",
+      "analysis": {
+        "social": "Tabou social massif lié aux valeurs religieuses traditionnelles.",
+        "racial": "Contrôle social via la lutte contre le narco-terrorisme.",
+        "economic": "Relance nationale de la culture de chanvre pour le textile et l'industrie."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Turquie"
+  },
+  "GE": {
+    "name": "Géorgie",
+    "flag": "🇬🇪",
+    "alias": "Georgia",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Période soviétique)",
+      "evolution": "2018 (Arrêt historique de la Cour Constitutionnelle dépénalisant totalement l'acte de consommer)",
+      "context": "Exception mondiale : premier pays de l'ex-bloc soviétique à légaliser l'usage privé."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée pour l'acte de fumer ; vente commerciale encore interdite.",
+      "risks": "Vente et culture non-personnelle restent criminelles ; consommation publique interdite.",
+      "analysis": {
+        "social": "Victoire de la liberté individuelle sur le conservatisme étatique.",
+        "racial": "Réduction drastique de la pression policière sur la jeunesse de Tbilissi.",
+        "economic": "Débat en cours sur la régulation d'un marché légal industriel."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Géorgie"
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "flag": "🇰🇿",
+    "alias": "Kazakhstan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence soviétique)",
+      "evolution": "2023 (Répression maintenue malgré les programmes d'éradication inefficaces dans la vallée de Tchou)",
+      "context": "Paradoxe : possession de l'une des plus grandes réserves de cannabis sauvage au monde mais interdiction stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; traque active lors des périodes de récolte sauvage.",
+      "risks": "Prison de longue durée pour possession ; absence totale de cadre médical et industriel.",
+      "analysis": {
+        "social": "Stigmatisation et lutte d'État contre la 'culture de la drogue'.",
+        "racial": "Contrôle des zones rurales productrices traditionnelles.",
+        "economic": "Pertes immenses liées au refus de valoriser la biomasse sauvage."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Kazakhstan"
+  },
+  "UZ": {
+    "name": "Ouzbékistan",
+    "flag": "🇺🇿",
+    "alias": "Uzbekistan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Influence soviétique)",
+      "evolution": "2020 (Légalisation de la culture industrielle de chanvre pour l'export)",
+      "context": "Ouverture pragmatique pour le chanvre industriel mais maintien de la prohibition récréative."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle pour le citoyen ; nouveau cadre industriel chanvre prometteur.",
+      "risks": "Fortes amendes et risque pénal pour usage de THC.",
+      "analysis": {
+        "social": "Transition vers un modèle utilitariste de la plante (fibre/graine).",
+        "racial": "Stigmatisation des usagers persistance.",
+        "economic": "Ambition de devenir un leader régional de la production de chanvre textile."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Ouzbékistan"
+  },
+  "JO": {
+    "name": "Jordanie",
+    "flag": "🇯🇴",
+    "alias": "Jordan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence coloniale britannique)",
+      "evolution": "2023 (Maintien de la politique de tolérance zéro malgré les débats médicaux mondiaux)",
+      "context": "Le cannabis est strictement interdit et assimilé aux drogues lourdes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Prison (1 à 2 ans min.) pour usage personnel ; surveillance policière stricte.",
+      "analysis": {
+        "social": "Tabou social massif lié aux traditions religieuses et sociales.",
+        "racial": "Stigmatisation des usagers étrangers et résidents locaux.",
+        "economic": "Refus total de toute exploitation commerciale de la plante."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Jordanie"
+  },
+  "KW": {
+    "name": "Koweït",
+    "flag": "🇰🇼",
+    "alias": "Kuwait",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi originelle sur les stupéfiants)",
+      "evolution": "2024 (Répression maintenue avec des peines records pour l'importation)",
+      "context": "Tolérance zéro absolue sans aucune nuance médicale ou industrielle."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque carcéral extrême.",
+      "risks": "Prison de longue durée (jusqu'à la perpétuité) pour trafic ; emprisonnement sévère pour usage.",
+      "analysis": {
+        "social": "Désapprobation étatique et religieuse totale.",
+        "racial": "Application drastique pour les expatriés (expulsion systématique).",
+        "economic": "Rejet idéologique de toute industrie liée au cannabis."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Koweït"
+  },
+  "QA": {
+    "name": "Qatar",
+    "flag": "🇶🇦",
+    "alias": "Qatar",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Application de la Charia et lois civiles)",
+      "evolution": "2022-2024 (Contrôles ultra-sécurisés lors des grands événements internationaux)",
+      "context": "L'un des régimes de prohibition les plus sophistiqués et stricts au monde."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; surveillance technologique et policière totale.",
+      "risks": "Expulsion et prison pour toute trace ; tests sanguins inopinés possibles.",
+      "analysis": {
+        "social": "Stigmatisation totale sous peine de mise au ban social.",
+        "racial": "Contrôle vigilant des résidents étrangers.",
+        "economic": "Refus dogmatique d'ouverture au chanvre malgré les moyens financiers colossaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Qatar"
+  },
+  "OM": {
+    "name": "Oman",
+    "flag": "🇴🇲",
+    "alias": "Oman",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi originelle)",
+      "evolution": "2023 (Répression maintenue sans aucune réforme)",
+      "context": "Statut quo prohibitionniste rigide."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque judiciaire élevé.",
+      "risks": "Emprisonnement sévère pour possession.",
+      "analysis": {
+        "social": "Tabou social immuable.",
+        "racial": "Discipline étatique stricte.",
+        "economic": "Aucune opportunité légale tolérée."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Oman"
+  },
+  "BH": {
+    "name": "Bahreïn",
+    "flag": "🇧🇭",
+    "alias": "Bahrain",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi originelle)",
+      "evolution": "2023 (Maintien de la prohibition stricte)",
+      "context": "Interdiction totale sans exception."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Prison pour possession simple.",
+      "analysis": {
+        "social": "Stigmatisation forte.",
+        "racial": "Contrôle douanier vigilant.",
+        "economic": "Absence de filière légale."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Bahreïn"
+  },
+  "YE": {
+    "name": "Yémen",
+    "flag": "🇾🇪",
+    "alias": "Yemen",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2024 (Instabilité et primauté d'autres substances comme le Khat)",
+      "context": "Prohibition formelle ignorée ou appliquée arbitrairement par les milices."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger physique et judiciaire permanent.",
+      "risks": "Arrestations arbitraires ; absence totale de protection légale.",
+      "analysis": {
+        "social": "Concurrence culturelle avec le Khat dominant le marché social.",
+        "racial": "Contrôle social chaotique.",
+        "economic": "Économie de guerre souterraine incontrôlée."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Yémen"
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "flag": "🇧🇩",
+    "alias": "Bangladesh",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1989 (Loi stricte sur les stupéfiants)",
+      "evolution": "2024 (Répression maintenue malgré l'utilisation traditionnelle du Bhang)",
+      "context": "Prohibition absolue et sanctions pénales lourdes (jusqu'à la peine de mort pour trafic)."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Prison ou peine capitale pour trafic ; prison pour usage personnel.",
+      "analysis": {
+        "social": "Lutte contre les stupéfiants assimilée à une priorité de sécurité nationale.",
+        "racial": "Contrôle social rigide sur les zones urbaines denses.",
+        "economic": "Perte de ressources héritées de l'industrie du chanvre historique."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Bangladesh"
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "alias": "Sri Lanka",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1867 (Influence coloniale britannique)",
+      "evolution": "2018 (Autorisation officielle du cannabis médical pour la médecine Ayurvédique)",
+      "context": "Héritage ancestral protégé : le cannabis fait partie de la pharmacopée traditionnelle locale."
+    },
+    "norml_expert": {
+      "summary": "Liberté médicale/traditionnelle réelle ; usage récréatif moderne prohibé.",
+      "risks": "Poursuites pour possession récréative ; cadre légal strict géré par l'État pour le médical.",
+      "analysis": {
+        "social": "Respect pour l'aspect sacré et médicinal de la plante ; rejet du modèle récréatif occidental.",
+        "racial": "Politique de préservation culturelle et religieuse.",
+        "economic": "Projets de fermes d'exportation médicale dirigées par le gouvernement."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Sri Lanka"
+  },
+  "NP": {
+    "name": "Népal",
+    "flag": "🇳🇵",
+    "alias": "Nepal",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1973 (Narcotic Drugs Control Act sous pression de l'administration Nixon)",
+      "evolution": "2024 (Dépôt de motions au Parlement pour légaliser le cannabis à des fins médicinales et d'exportation)",
+      "context": "Haut lieu historique de la culture hippie, en pleine réflexion sur la régularisation de son patrimoine naturel."
+    },
+    "norml_expert": {
+      "summary": "Liberté de fait tolérée en zone rurale ; risque pénal résiduel en ville.",
+      "risks": "Prison pour possession (surtout lors de Shivarati pour les non-fidèles) ; absence de protection légale formelle.",
+      "analysis": {
+        "social": "Usage religieux (Shiva) profondément ancré ; tension entre tradition et lois internationales.",
+        "racial": "Discriminations possibles selon le statut social et religieux.",
+        "economic": "Potentiel immense de revitalisation rurale via l'exportation de résines de haute montagne."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Népal"
+  },
+  "BT": {
+    "name": "Bhoutan",
+    "flag": "🇧🇹",
+    "alias": "Bhutan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence de l'ONU)",
+      "evolution": "2024 (Maintien de l'interdiction malgré la croissance sauvage massive de la plante)",
+      "context": "Le cannabis pousse à l'état naturel partout dans le pays mais son usage reste un tabou pénalisé."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; approche pénale conservatrice.",
+      "risks": "Peines de prison effectives pour possession d'extraits ; surveillance policière active.",
+      "analysis": {
+        "social": "Le cannabis est vu comme une nuisance agricole plutôt que comme une drogue.",
+        "racial": "Discipline nationale guidée par l'indice du Bonheur National Brut excluant les stupéfiants.",
+        "economic": "Ressource gâchée (le cannabis naturel est donné aux porcs pour stimuler leur appétit)."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Bhoutan"
+  },
+  "AM": {
+    "name": "Arménie",
+    "flag": "🇦🇲",
+    "alias": "Armenia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois strictes héritées de l'ère soviétique."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Stigmatisation sociale.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Armenia"
+  },
+  "AZ": {
+    "name": "Azerbaïdjan",
+    "flag": "🇦🇿",
+    "alias": "Azerbaijan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Prohibition absolue."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire.",
+      "risks": "Peines de prison pour toute quantité.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Azerbaijan"
+  },
+  "BN": {
+    "name": "Brunéi",
+    "flag": "🇧🇳",
+    "alias": "Brunei",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Application de la Charia avec une extrême sévérité."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger de mort/prison perpétuelle.",
+      "risks": "Peine capitale pour trafic ; prison et coups pour usage.",
+      "analysis": {
+        "social": "Stigmatisation absolue.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Brunei"
+  },
+  "CC": {
+    "name": "Îles Cocos",
+    "flag": "🇰🇨",
+    "alias": "Cocos (Keeling) Islands",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Territoire australien : application de la loi fédérale australienne."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; cadre répressif australien.",
+      "risks": "Amendes et sanctions pénales.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Australia"
+  },
+  "CX": {
+    "name": "Île Christmas",
+    "flag": "🇨🇽",
+    "alias": "Christmas Island",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois australiennes strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Sanctions pénales.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Australia"
+  },
+  "IO": {
+    "name": "Territoire britannique de l'océan Indien",
+    "flag": "🇮🇴",
+    "alias": "British Indian Ocean Territory",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Zone militaire sous juridiction britannique/américaine."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; zone de haute sécurité.",
+      "risks": "Expulsion et sanctions militaires/pénales.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United Kingdom"
+  },
+  "KG": {
+    "name": "Kirghizistan",
+    "flag": "🇰🇬",
+    "alias": "Kyrgyzstan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Héritage soviétique malgré la présence de cannabis sauvage historique."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression de la culture sauvage.",
+      "risks": "Prison pour possession et récolte.",
+      "analysis": {
+        "social": "Stigmatisation forte.",
+        "racial": "N/A",
+        "economic": "Potentiel gâché."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Kyrgyzstan"
+  },
+  "KP": {
+    "name": "Corée du Nord",
+    "flag": "🇰🇵",
+    "alias": "North Korea",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Régime totalitaire avec une opacité totale sur les lois réelles."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger extrême.",
+      "risks": "Sanctions d'État inconnues mais probablement sévères.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in North Korea"
+  },
+  "MO": {
+    "name": "Macao",
+    "flag": "🇲🇴",
+    "alias": "Macao",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois strictes de la Région Administrative Spéciale."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire.",
+      "risks": "Prison et amendes.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in China"
+  },
+  "PS": {
+    "name": "Palestine",
+    "flag": "🇵🇸",
+    "alias": "Palestine",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois héritées et adaptées selon les zones d'administration."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Stigmatisation.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Israel"
+  },
+  "TJ": {
+    "name": "Tadjikistan",
+    "flag": "🇹🇯",
+    "alias": "Tajikistan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Héritage soviétique et lutte contre le transit."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression sévère.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Stigmatisation.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Tajikistan"
+  },
+  "TM": {
+    "name": "Turkménistan",
+    "flag": "🇹🇲",
+    "alias": "Turkmenistan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Régime totalitaire avec tolérance zéro."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger extrême.",
+      "risks": "Incarcération sévère pour toute trace.",
+      "analysis": {
+        "social": "Inexistence de débat.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Turkmenistan"
+  },
+  "TL": {
+    "name": "Timor-Leste",
+    "flag": "🇹🇱",
+    "alias": "Timor-Leste",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois post-indépendance strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Sanctions pénales.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Timor-Leste"
+  },
+  "MN": {
+    "name": "Mongolie",
+    "flag": "🇲🇳",
+    "alias": "Mongolia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi originelle)",
+      "evolution": "2023 (Renforcement de la coopération régionale anti-drogue)",
+      "context": "Tolérance zéro absolue et climat de prohibition rigide."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Lourdes peines de prison pour possession minime.",
+      "analysis": {
+        "social": "Désapprobation sociale radicale.",
+        "racial": "Contrôle social parfait.",
+        "economic": "Rejet des nouvelles agro-technologies liées au chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Mongolie"
+  },
+  "TW": {
+    "name": "Taïwan",
+    "flag": "🇹🇼",
+    "alias": "Taiwan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence des conventions internationales)",
+      "evolution": "2024 (Répression maintenue, le cannabis reste classé au Grade 2 des stupéfiants)",
+      "context": "Punition extrêmement sévère incluant la prison à perpétuité pour trafic."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire extrême.",
+      "risks": "Prison longue durée pour possession simple ; risque pénal maximal dès la première infraction.",
+      "analysis": {
+        "social": "Stigmatisation culturelle d'État ; le cannabis est perçu comme un fléau étranger.",
+        "racial": "Contrôle social rigide sur la jeunesse et les expatriés.",
+        "economic": "Refus total de régulation malgré un secteur tech capable de dominer le médical."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Taïwan"
+  }
+}

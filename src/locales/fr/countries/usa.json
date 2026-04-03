@@ -1,0 +1,1198 @@
+{
+  "US-AL": {
+    "name": "Alabama",
+    "flag": "🇺🇸",
+    "alias": "Alabama",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1971 (Uniform Controlled Substances Act)",
+      "evolution": "2021 (Légalisation médicale restrictive - SB 46)",
+      "context": "État conservateur de la 'Bible Belt' ; répression récréative encore très ancrée."
+    },
+    "norml_expert": {
+      "summary": "Usage récréatif criminalisé ; accès médical complexe et embryonnaire.",
+      "risks": "Prison possible pour possession simple de moins de 1g (misdemeanor).",
+      "analysis": {
+        "social": "Stigmatisation des usagers ruraux ; manque de protection pour les patients.",
+        "racial": "Taux d'arrestation des populations noires 4x supérieur à celui des blancs.",
+        "economic": "Coût annuel carcéral lié au cannabis estimé à 50 M$."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Alabama"
+  },
+  "US-AK": {
+    "name": "Alaska",
+    "flag": "🇺🇸",
+    "alias": "Alaska",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1975 (Arrêt Ravin v. State protectant la vie privée au domicile)",
+      "evolution": "2014 (Ballot Measure 2 : légalisation totale)",
+      "context": "Pionnier libertarien : l'usage privé est protégé par la Constitution de l'État."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle très élevée ; culture du domicile protégée.",
+      "risks": "Interdiction de consommer dans l'espace public (sauf zones de consommation dédiées).",
+      "analysis": {
+        "social": "Intégration réussie dans les communautés rurales isolées.",
+        "racial": "Politiques de régulation ayant réduit les disparités d'incarcération historiques.",
+        "economic": "Revenus fiscaux majeurs pour un petit état (plus de 30 M$ par an)."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Alaska"
+  },
+  "US-AZ": {
+    "name": "Arizona",
+    "flag": "🇺🇸",
+    "alias": "Arizona",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi contre le cannabis)",
+      "evolution": "2020 (Proposition 207 : Smart and Safe Arizona Act)",
+      "context": "Marché régulé robuste avec une forte intégration des dispensaires médicaux."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; marché légal mature.",
+      "risks": "Interdiction de consommation publique ; règles strictes sur la conduite.",
+      "analysis": {
+        "social": "Normalisation rapide ; accès facilité pour les patients et récréatifs.",
+        "racial": "Réduction des arrestations pour possession simple.",
+        "economic": "Revenus fiscaux dépassant 100 M$ par an."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Arizona"
+  },
+  "US-AR": {
+    "name": "Arkansas",
+    "flag": "🇺🇸",
+    "alias": "Arkansas",
+    "status": "prohibited",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1923 (Loi précoce contre le cannabis)",
+      "evolution": "2016 (Légalisation médicale - Issue 4)",
+      "context": "Statu quo sur le récréatif après le rejet de la légalisation en 2022."
+    },
+    "norml_expert": {
+      "summary": "Liberté limitée aux patients ; usage récréatif encore risqué.",
+      "risks": "Arrestations maintenues pour possession sans carte médicale.",
+      "analysis": {
+        "social": "Conflit entre conservatisme rural et demande croissante en ville.",
+        "racial": "Disparités d'arrestation persistantes contre la communauté Afro-américaine.",
+        "economic": "Économie médicale florissante (plus de 300 M$ de CA)."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Arkansas"
+  },
+  "US-CA": {
+    "name": "Californie",
+    "flag": "🇺🇸",
+    "alias": "California",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1913 (Inclusion du cannabis dans le poison act)",
+      "evolution": "2016 (Proposition 64) - Premier pays du monde en volume légal",
+      "context": "Le 'Gold Standard' mondial malgré de lourdes taxes pesant sur le marché légal."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'usager adulte ; accès universel au cannabis de qualité.",
+      "risks": "Amendes pour usage public ou conduite sous influence ; limitations de culture municipale.",
+      "analysis": {
+        "social": "Normalisation complète ; pionnier de l'équité sociale (Social Equity Programs).",
+        "racial": "Réparation historique massive via l'annulation automatique des condamnations.",
+        "economic": "Marché colossal de 5 Mds $/an ; premier employeur cannabique au monde."
+      }
+    },
+    "wikipediaSlug": "Cannabis in California"
+  },
+  "US-CO": {
+    "name": "Colorado",
+    "flag": "🇺🇸",
+    "alias": "Colorado",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1917 (Loi contre le cannabis)",
+      "evolution": "2012 (Amendment 64 : première légalisation récréative US)",
+      "context": "Modèle pionnier ayant prouvé la viabilité économique de la légalisation."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale ; culture domestique et vente régulée.",
+      "risks": "Interdiction de consommation publique ; limites de possession (56g).",
+      "analysis": {
+        "social": "Normalisation sociétale ; intégration réussie dans le tourisme.",
+        "racial": "Efforts continus pour diversifier l'industrie (Social Equity).",
+        "economic": "Plus de 1 Md$ de revenus fiscaux cumulés depuis 2014."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Colorado"
+  },
+  "US-CT": {
+    "name": "Connecticut",
+    "flag": "🇺🇸",
+    "alias": "Connecticut",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2021 (Senate Bill 1083 : légalisation totale)",
+      "context": "Approche axée sur la justice sociale et l'effacement des casiers."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; cadre légal protecteur.",
+      "risks": "Règles strictes sur la vente aux mineurs ; interdiction de consommation publique.",
+      "analysis": {
+        "social": "Focus sur l'équité ; réinvestissement des taxes dans les zones impactées.",
+        "racial": "Effacement automatique des condamnations passées.",
+        "economic": "Marché en croissance rapide ; création d'emplois locaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Connecticut"
+  },
+  "US-DE": {
+    "name": "Delaware",
+    "flag": "🇺🇸",
+    "alias": "Delaware",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2023 (HB 1 et HB 2 : légalisation et régulation)",
+      "context": "Transition vers un marché régulé après des années de dépénalisation."
+    },
+    "norml_expert": {
+      "summary": "Liberté acquise ; fin des arrestations pour possession simple.",
+      "risks": "Régulation du marché en cours de déploiement (2025).",
+      "analysis": {
+        "social": "Réduction de la charge judiciaire ; focus sur la santé publique.",
+        "racial": "Baisse des disparités d'arrestation liées au cannabis.",
+        "economic": "Potentiel fiscal important pour l'État."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Delaware"
+  },
+  "US-DC": {
+    "name": "Washington D.C.",
+    "flag": "🇺🇸",
+    "alias": "District of Columbia",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi fédérale)",
+      "evolution": "2014 (Initiative 71 : légalisation récréative par les électeurs)",
+      "context": "Modèle unique de 'Gifting' (cadeau) imposé par le blocage budgétaire du Congrès."
+    },
+    "norml_expert": {
+      "summary": "Liberté de possession (2 ounces) et culture (6 plants) ; commerce via 'cadeaux'.",
+      "risks": "Usage interdit sur les terres fédérales (qui couvrent 30% de la ville) ; risque d'arrestation fédérale.",
+      "analysis": {
+        "social": "Résilience d'une économie grise locale suite aux blocages politiques.",
+        "racial": "Réduction massive des arrestations injustes dans les quartiers Est.",
+        "economic": "Économie de 'gifting' florissante mais sans revenus fiscaux pour la ville."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Washington D.C."
+  },
+  "US-FL": {
+    "name": "Floride",
+    "flag": "🇺🇸",
+    "alias": "Florida",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1933 (Loi restrictive)",
+      "evolution": "2024 (Amendment 3 : vote historique pour la légalisation récréative)",
+      "context": "Marché médical géant (un des plus gros au monde) en transition vers le récréatif."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour les patients ; accès récréatif en cours de normalisation.",
+      "risks": "Répression encore forte hors cadre médical dans les comtés conservateurs.",
+      "analysis": {
+        "social": "Forte acceptation chez les seniors (médical) ; lobbying industriel puissant.",
+        "racial": "Tensions persistantes liées aux arrestations disproportionnées dans le passé.",
+        "economic": "Marché médical de 2 Mds $ ; potentiel récréatif estimé à 5 Mds $."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Florida"
+  },
+  "US-GA": {
+    "name": "Géorgie",
+    "flag": "🇺🇸",
+    "alias": "Georgia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1971 (Controlled Substances Act)",
+      "evolution": "2015 (Haleigh's Hope Act : huile CBD à bas taux de THC autorisée)",
+      "context": "Interdiction récréative stricte ; système médical extrêmement réduit."
+    },
+    "norml_expert": {
+      "summary": "Liberté quasi nulle ; risque d'incarcération réel pour possession simple.",
+      "risks": "La possession de moins d'une once reste un délit pénal (misdemeanor).",
+      "analysis": {
+        "social": "Climat répressif fort ; isolation des patients n'ayant pas accès à l'huile légale.",
+        "racial": "Disparités d'arrestation raciales parmi les plus élevées des USA.",
+        "economic": "Perte de revenus fiscaux au profit des états voisins (FL, AL)."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Georgia"
+  },
+  "US-HI": {
+    "name": "Hawaï",
+    "flag": "🇺🇸",
+    "alias": "Hawaii",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Lois fédérales appliquées au territoire)",
+      "evolution": "2019 (Dépénalisation de 3 grammes : limite très basse)",
+      "context": "Culture ancestrale forte (Pakalolo) mais lenteur politique vers la légalité totale."
+    },
+    "norml_expert": {
+      "summary": "Tolérance culturelle élevée mais sécurité juridique fragile.",
+      "risks": "Sanctions civiles pour petites quantités ; risque pénal pour culture sans licence.",
+      "analysis": {
+        "social": "Intégration profonde dans la culture locale ; protection des traditions.",
+        "racial": "Réduction des tensions avec la population native hawaiienne.",
+        "economic": "Potentiel touristique cannabique majeur inexploité officiellement."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Hawaii"
+  },
+  "US-ID": {
+    "name": "Idaho",
+    "flag": "🇺🇸",
+    "alias": "Idaho",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1971 (Uniform Controlled Substances Act)",
+      "evolution": "2021 (Amendement constitutionnel bloquant toute légalisation future sans vote)",
+      "context": "L'état le plus répressif des USA (seul état sans aucune forme de légalité CBD/THC)."
+    },
+    "norml_expert": {
+      "summary": "Zéro liberté ; criminalisation totale de toute forme de cannabis.",
+      "risks": "Prison et amendes lourdes même pour des traces ou du CBD avec THC résiduel.",
+      "analysis": {
+        "social": "Isolation idéologique ; stigmatisation extrême de l'usage.",
+        "racial": "Politique de tolérance zéro alimentant le système carcéral local.",
+        "economic": "Fuite de capitaux massive vers les états voisins tous légaux (WA, OR, NV, MT)."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Idaho"
+  },
+  "US-IL": {
+    "name": "Illinois",
+    "flag": "🇺🇸",
+    "alias": "Illinois",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1931 (Loi sur les stupéfiants)",
+      "evolution": "2019 (Cannabis Regulation and Tax Act : première légalisation via le législatif)",
+      "context": "Modèle national pour l'équité sociale et le réinvestissement communautaire."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale ; cadre légal axé sur la justice sociale.",
+      "risks": "Taxes parmi les plus élevées du pays ; interdiction de consommation publique.",
+      "analysis": {
+        "social": "Pionnier de la redistribution des taxes (R3 Program) vers les quartiers pauvres.",
+        "racial": "Effacement de 500 000 dossiers criminels liés au cannabis.",
+        "economic": "Marché mature de 1,6 Md $ ; créateur massif d'emplois diversifiés."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Illinois"
+  },
+  "US-IN": {
+    "name": "Indiana",
+    "flag": "🇺🇸",
+    "alias": "Indiana",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2018 (Légalisation du CBD à faible taux de THC)",
+      "context": "État très conservateur ; résistance politique forte contre toute légalisation récréative."
+    },
+    "norml_expert": {
+      "summary": "Liberté très limitée ; accès restreint au seul CBD.",
+      "risks": "Possession simple punie de prison (misdemeanor) ; casier judiciaire systématique.",
+      "analysis": {
+        "social": "Décalage croissant avec les états voisins (IL, MI, OH) qui sont légaux.",
+        "racial": "Disparités d'arrestation marquées dans les zones urbaines (Indianapolis).",
+        "economic": "Perte fiscale importante au profit des états limitrophes."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Indiana"
+  },
+  "US-IA": {
+    "name": "Iowa",
+    "flag": "🇺🇸",
+    "alias": "Iowa",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2020 (Programme médical très restrictif)",
+      "context": "Politique restrictive ; le cannabis médical est limité à des produits à faible THC."
+    },
+    "norml_expert": {
+      "summary": "Liberté quasi nulle ; accès médical inefficace pour beaucoup.",
+      "risks": "Arrestations fréquentes pour possession ; lois sur les concentrés très sévères.",
+      "analysis": {
+        "social": "Stigmatisation forte ; manque de soutien pour les patients chroniques.",
+        "racial": "Taux d'arrestation disproportionnés pour les minorités.",
+        "economic": "Absence de marché légal malgré un potentiel agricole important."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Iowa"
+  },
+  "US-KS": {
+    "name": "Kansas",
+    "flag": "🇺🇸",
+    "alias": "Kansas",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1927 (Loi contre le cannabis)",
+      "evolution": "2019 (Légalisation du CBD sans THC)",
+      "context": "État très conservateur ; blocage législatif constant sur le médical et le récréatif."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; criminalisation stricte.",
+      "risks": "Possession simple est un délit pénal ; risques de prison pour récidive.",
+      "analysis": {
+        "social": "Conflit entre les zones urbaines (Lawrence/KC) et le conservatisme rural.",
+        "racial": "Disparités d'arrestation raciales persistantes.",
+        "economic": "Fuite de revenus fiscaux vers le Missouri (légal)."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Kansas"
+  },
+  "US-KY": {
+    "name": "Kentucky",
+    "flag": "🇺🇸",
+    "alias": "Kentucky",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2023 (SB 47 : légalisation médicale effective en 2025)",
+      "context": "Transition historique vers le médical ; forte culture de chanvre industriel."
+    },
+    "norml_expert": {
+      "summary": "Liberté en transition ; accès médical imminent.",
+      "risks": "Usage récréatif toujours illégal ; risques de poursuites pénales.",
+      "analysis": {
+        "social": "Changement de perception lié à l'économie du chanvre.",
+        "racial": "Efforts pour réduire les arrestations liées à la possession.",
+        "economic": "Potentiel de reconversion agricole majeur pour les fermiers locaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Kentucky"
+  },
+  "US-LA": {
+    "name": "Louisiane",
+    "flag": "🇺🇸",
+    "alias": "Louisiana",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Uniform Narcotic Drug Act)",
+      "evolution": "2021 (HB 652 : décriminalisation de 14g ; accès aux fleurs médicales)",
+      "context": "Progressisme inattendu pour le Sud ; focus sur le médical et la décriminalisation."
+    },
+    "norml_expert": {
+      "summary": "Usage personnel largement décriminalisé ; accès médical fonctionnel.",
+      "risks": "Amende de 100$ pour possession de moins de 14g ; peines plus lourdes au-delà.",
+      "analysis": {
+        "social": "Réduction notable des arrestations de rue ; changement de culture policière.",
+        "racial": "Efforts pour limiter l'impact de la 'Guerre contre les drogues' sur les communautés noires.",
+        "economic": "Marché médical florissant avec des licences limitées."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Louisiana"
+  },
+  "US-ME": {
+    "name": "Maine",
+    "flag": "🇺🇸",
+    "alias": "Maine",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1913 (Loi originelle)",
+      "evolution": "2016 (Question 1 : légalisation totale)",
+      "context": "État rural avec une forte tradition de liberté individuelle et d'autoproduction."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'adulte ; marché local diversifié (Craft Cannabis).",
+      "risks": "Règles sur la conduite (détection THC) ; interdiction de consommation publique.",
+      "analysis": {
+        "social": "Acceptation sociale massive ; intégration réussie dans l'économie rurale.",
+        "racial": "Peu de disparités raciales historiquement comparé au reste des USA.",
+        "economic": "Industrie générant des centaines de millions de dollars ; boom du tourisme local."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Maine"
+  },
+  "US-MD": {
+    "name": "Maryland",
+    "flag": "🇺🇸",
+    "alias": "Maryland",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2022 (Question 4 : légalisation totale)",
+      "context": "Transition rapide vers un marché régulé avec un fort soutien législatif."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; marché légal en pleine expansion.",
+      "risks": "Interdiction de consommation publique ; règles strictes sur la vente.",
+      "analysis": {
+        "social": "Normalisation rapide ; focus sur la santé publique.",
+        "racial": "Effacement des condamnations passées pour possession simple.",
+        "economic": "Revenus fiscaux importants réinvestis dans les communautés."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Maryland"
+  },
+  "US-MA": {
+    "name": "Massachusetts",
+    "flag": "🇺🇸",
+    "alias": "Massachusetts",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1914 (Loi sur les stupéfiants)",
+      "evolution": "2016 (Question 4 : légalisation totale)",
+      "context": "Pionnier de la côte Est avec un marché très régulé et sécurisé."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; marché mature et très contrôlé.",
+      "risks": "Interdiction de consommation publique ; règles strictes sur la conduite.",
+      "analysis": {
+        "social": "Normalisation complète ; accès facilité pour les patients et récréatifs.",
+        "racial": "Réduction significative des arrestations liées au cannabis.",
+        "economic": "Marché générant des centaines de millions de dollars en taxes."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Massachusetts"
+  },
+  "US-MI": {
+    "name": "Michigan",
+    "flag": "🇺🇸",
+    "alias": "Michigan",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2018 (Proposal 1 : légalisation totale)",
+      "context": "Marché le plus compétitif et abordable des USA grâce à une offre massive."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale ; marché très dynamique et prix très bas.",
+      "risks": "Interdiction de consommation publique ; règles strictes sur la conduite.",
+      "analysis": {
+        "social": "Normalisation complète ; intégration réussie dans l'économie locale.",
+        "racial": "Efforts pour diversifier l'industrie et réduire les disparités.",
+        "economic": "Marché de plus de 2 Mds $ ; création massive d'emplois."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Michigan"
+  },
+  "US-MN": {
+    "name": "Minnesota",
+    "flag": "🇺🇸",
+    "alias": "Minnesota",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2023 (HF 100 : légalisation totale)",
+      "context": "Approche axée sur la justice sociale et l'effacement des casiers."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; cadre légal protecteur.",
+      "risks": "Règles strictes sur la vente aux mineurs ; interdiction de consommation publique.",
+      "analysis": {
+        "social": "Focus sur l'équité ; réinvestissement des taxes dans les zones impactées.",
+        "racial": "Effacement automatique des condamnations passées.",
+        "economic": "Marché en croissance rapide ; création d'emplois locaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Minnesota"
+  },
+  "US-MS": {
+    "name": "Mississippi",
+    "flag": "🇺🇸",
+    "alias": "Mississippi",
+    "status": "prohibited",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970s (Controlled Substances Act)",
+      "evolution": "2022 (Légalisation médicale après un blocage judiciaire historique)",
+      "context": "État profondément conservateur mais avec une loi de décriminalisation très ancienne."
+    },
+    "norml_expert": {
+      "summary": "Usage personnel décriminalisé (amende seulement) ; médical opérationnel.",
+      "risks": "Toute possession supérieure à 30g peut entraîner des peines de prison.",
+      "analysis": {
+        "social": "Acceptation médicale croissante ; méfiance récréative persistante.",
+        "racial": "Arrestations criminelles ciblant massivement les populations pauvres.",
+        "economic": "Développement rapide du secteur médical (estimé à 100 M$)."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Mississippi"
+  },
+  "US-MO": {
+    "name": "Missouri",
+    "flag": "🇺🇸",
+    "alias": "Missouri",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2022 (Amendment 3 : légalisation totale)",
+      "context": "Transition rapide vers un marché régulé avec un fort soutien populaire."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; marché légal en pleine expansion.",
+      "risks": "Interdiction de consommation publique ; règles strictes sur la vente.",
+      "analysis": {
+        "social": "Normalisation rapide ; focus sur la santé publique.",
+        "racial": "Effacement des condamnations passées pour possession simple.",
+        "economic": "Revenus fiscaux importants réinvestis dans les communautés."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Missouri"
+  },
+  "US-MT": {
+    "name": "Montana",
+    "flag": "🇺🇸",
+    "alias": "Montana",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1929 (Loi originelle)",
+      "evolution": "2020 (Initiative 190 : légalisation récréative totale)",
+      "context": "État rural libertarien avec un marché décentralisé et très accessible."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'adulte ; droit d'auto-culture (2 plants).",
+      "risks": "Possession publique limitée (1 ounce) ; interdictions locales dans certains comtés conservateurs.",
+      "analysis": {
+        "social": "Intégration réussie dans la culture locale de plein air.",
+        "racial": "Réduction des disparités d'arrestation dans les zones rurales.",
+        "economic": "Revenus fiscaux records reversés à la conservation des parcs naturels."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Montana"
+  },
+  "US-NE": {
+    "name": "Nebraska",
+    "flag": "🇺🇸",
+    "alias": "Nebraska",
+    "status": "prohibited",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2024 (Tentative de légalisation médicale via pétition citoyenne)",
+      "context": "L'un des derniers états sans programme médical complet, malgré une vieille loi de décriminalisation."
+    },
+    "norml_expert": {
+      "summary": "Liberté très restreinte ; l'usager reste sous pression judiciaire.",
+      "risks": "Dépénalisation de la première offense (<1 ounce) mais risque pénal pour récidive.",
+      "analysis": {
+        "social": "Souffrance des patients obligés de se fournir dans les états voisins (CO, MO).",
+        "racial": "Arrestations ciblant disproportionnellement les minorités en zone urbaine (Omaha).",
+        "economic": "Opposition politique bloquant un marché potentiel de plusieurs dizaines de millions de dollars."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Nebraska"
+  },
+  "US-NV": {
+    "name": "Nevada",
+    "flag": "🇺🇸",
+    "alias": "Nevada",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1923 (Loi originelle)",
+      "evolution": "2016 (Question 2 : légalisation récréative)",
+      "context": "Marché touristique majeur avec une régulation très stricte et sécurisée."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; accès facilité pour les touristes.",
+      "risks": "Interdiction de consommation publique (sauf lounges dédiés) ; règles strictes sur la conduite.",
+      "analysis": {
+        "social": "Normalisation complète ; intégration réussie dans l'économie du divertissement.",
+        "racial": "Réduction des arrestations liées au cannabis dans les zones urbaines (Las Vegas).",
+        "economic": "Revenus fiscaux massifs issus du tourisme et de la vente locale."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Nevada"
+  },
+  "US-NH": {
+    "name": "New Hampshire",
+    "flag": "🇺🇸",
+    "alias": "New Hampshire",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2024 (Débat législatif intense pour un modèle de vente d'État unique)",
+      "context": "Le 'maillon faible' de la Nouvelle-Angleterre : seul état de la zone sans vente récréative."
+    },
+    "norml_expert": {
+      "summary": "Usage décriminalisé mais vente interdite ; patients protégés au médical.",
+      "risks": "Amandes civiles pour possession simple ; risque pénal pour culture domestique.",
+      "analysis": {
+        "social": "Paradoxe libertarien : 'Live Free or Die' mais prohibition maintenue par le gouverneur.",
+        "racial": "Taux d'arrestation des noirs déclinant suite à la décriminalisation.",
+        "economic": "Fuite de capitaux massive vers le Massachusetts et le Vermont."
+      }
+    },
+    "wikipediaSlug": "Cannabis in New Hampshire"
+  },
+  "US-NJ": {
+    "name": "New Jersey",
+    "flag": "🇺🇸",
+    "alias": "New Jersey",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2020 (Public Question 1 : légalisation totale)",
+      "context": "Marché en pleine croissance avec un fort accent sur la justice sociale."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; marché légal en expansion.",
+      "risks": "Interdiction de consommation publique ; règles strictes sur la vente.",
+      "analysis": {
+        "social": "Focus sur l'équité ; réinvestissement des taxes dans les zones impactées.",
+        "racial": "Effacement automatique des condamnations passées.",
+        "economic": "Marché en croissance rapide ; création d'emplois locaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis in New Jersey"
+  },
+  "US-NM": {
+    "name": "Nouveau-Mexique",
+    "flag": "🇺🇸",
+    "alias": "New Mexico",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "2021 (HB 2 : légalisation totale)",
+      "context": "Marché très accessible avec une forte culture d'autoproduction."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; droit d'auto-culture généreux.",
+      "risks": "Interdiction de consommation publique ; règles strictes sur la conduite.",
+      "analysis": {
+        "social": "Normalisation rapide ; intégration réussie dans les communautés rurales.",
+        "racial": "Réduction des disparités d'arrestation historiques.",
+        "economic": "Revenus fiscaux importants pour un état à faible densité."
+      }
+    },
+    "wikipediaSlug": "Cannabis in New Mexico"
+  },
+  "US-NY": {
+    "name": "New York",
+    "flag": "🇺🇸",
+    "alias": "New York",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1927 (Loi sur les stupéfiants)",
+      "evolution": "2021 (MRTA : légalisation totale)",
+      "context": "Marché le plus complexe à réguler en raison de la lutte contre le marché illicite."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour l'adulte ; marché légal en cours de déploiement.",
+      "risks": "Interdiction de consommation publique ; lutte active contre les boutiques illégales.",
+      "analysis": {
+        "social": "Focus sur l'équité sociale ; réinvestissement des taxes dans les communautés.",
+        "racial": "Effacement automatique des condamnations passées.",
+        "economic": "Potentiel de marché le plus élevé des USA."
+      }
+    },
+    "wikipediaSlug": "Cannabis in New York"
+  },
+  "US-NC": {
+    "name": "Caroline du Nord",
+    "flag": "🇺🇸",
+    "alias": "North Carolina",
+    "status": "prohibited",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930 (Loi sur les stupéfiants)",
+      "evolution": "1977 (Décriminalisation partielle de 14g)",
+      "context": "État conservateur avec une décriminalisation ancienne mais limitée."
+    },
+    "norml_expert": {
+      "summary": "Liberté très restreinte ; usage récréatif toujours illégal.",
+      "risks": "Possession simple reste un délit pénal (misdemeanor) ; risque de casier.",
+      "analysis": {
+        "social": "Stigmatisation persistante ; manque de soutien pour les patients.",
+        "racial": "Disparités d'arrestation marquées dans les zones urbaines.",
+        "economic": "Perte fiscale importante au profit des états voisins légaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis in North Carolina"
+  },
+  "US-ND": {
+    "name": "Dakota du Nord",
+    "flag": "🇺🇸",
+    "alias": "North Dakota",
+    "status": "prohibited",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1933 (Loi originelle)",
+      "evolution": "2022-2024 (Échec des votes populaires pour la légalisation récréative)",
+      "context": "État rural conservateur ayant rejeté la vente récréative à deux reprises."
+    },
+    "norml_expert": {
+      "summary": "Liberté très restreinte ; programme médical opérationnel mais limité.",
+      "risks": "Possession reste un délit pénal (misdemeanor) passible de prison pour récidive.",
+      "analysis": {
+        "social": "Forte stigmatisation rurale ; refus du changement malgré le médical.",
+        "racial": "Faible impact racial direct mais pression sur les zones marginalisées.",
+        "economic": "Inertie économique bloquant tout nouveau développement industriel."
+      }
+    },
+    "wikipediaSlug": "Cannabis in North Dakota"
+  },
+  "US-OH": {
+    "name": "Ohio",
+    "flag": "🇺🇸",
+    "alias": "Ohio",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi originelle)",
+      "evolution": "2023 (Issue 2 : légalisation récréative totale via vote populaire)",
+      "context": "Transition réussie vers un marché légal malgré une opposition politique initiale."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'adulte ; droit d'auto-culture (6-12 plants).",
+      "risks": "Règles strictes sur la consommation publique ; régulation en cours de déploiement.",
+      "analysis": {
+        "social": "Acceptation sociale forte ; focus sur la santé publique.",
+        "racial": "Réduction significative des arrestations liées au cannabis.",
+        "economic": "Marché prometteur avec un fort potentiel fiscal pour l'État."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Ohio"
+  },
+  "US-OK": {
+    "name": "Oklahoma",
+    "flag": "🇺🇸",
+    "alias": "Oklahoma",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1933 (Loi originelle)",
+      "evolution": "2018 (State Question 788 : le modèle médical le plus libéral des USA)",
+      "context": "Le 'Wild West' du médical : plus de dispensaires par habitant que partout ailleurs."
+    },
+    "norml_expert": {
+      "summary": "Usage médical accessible à tous (pas de condition restrictive) ; récréatif rejeté en 2023.",
+      "risks": "Sanctions maintenues pour possession sans carte médicale ; risque pénal réel.",
+      "analysis": {
+        "social": "Intégration profonde dans l'économie rurale du Midwest.",
+        "racial": "Disparités d'arrestation raciales en baisse mais présentes.",
+        "economic": "Boom économique majeur ; revenus fiscaux records pour l'éducation."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Oklahoma"
+  },
+  "US-OR": {
+    "name": "Oregon",
+    "flag": "🇺🇸",
+    "alias": "Oregon",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1923 (Loi originelle)",
+      "evolution": "1973 (Premier état US à dépénaliser) ; 2014 (Légalisation totale)",
+      "context": "Pionnier mondial de la réforme ; marché mature et hautement intégré."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'adulte ; culture du domicile (4 plants) ; prix très bas.",
+      "risks": "Surproduction pesant sur les prix ; interdiction de consommation publique.",
+      "analysis": {
+        "social": "Normalisation sociale exemplaire ; réduction massive de la stigmatisation.",
+        "racial": "Programmes d'équité en place pour compenser les torts passés.",
+        "economic": "Marché valant plus d'un milliard de dollars ; taxes reversées aux écoles."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Oregon"
+  },
+  "US-PA": {
+    "name": "Pennsylvanie",
+    "flag": "🇺🇸",
+    "alias": "Pennsylvania",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2016 (Légalisation médicale opérationnelle)",
+      "context": "Échec constant du récréatif au Parlement malgré le soutien du gouverneur."
+    },
+    "norml_expert": {
+      "summary": "Liberté limitée aux patients ; usage récréatif décriminalisé localement (Philadelphie).",
+      "risks": "Possession simple reste un délit pénal hors zones urbaines libérales.",
+      "analysis": {
+        "social": "Forte demande populaire ; décalage politique avec les états voisins légaux.",
+        "racial": "Impact disproportionné des arrestations sur les communautés urbaines.",
+        "economic": "Perte de milliards au profit du Maryland, du New Jersey et de l'Ohio."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Pennsylvania"
+  },
+  "US-RI": {
+    "name": "Rhode Island",
+    "flag": "🇺🇸",
+    "alias": "Rhode Island",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2022 (Rhode Island Cannabis Act : légalisation totale)",
+      "context": "Dernier état de la zone Boston-NYC à franchir le pas vers le marché légal."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'adulte ; possession de 1 ounce et 6 plants au domicile.",
+      "risks": "Interdictions municipales de points de vente ; consommation publique limitée.",
+      "analysis": {
+        "social": "Annulation automatique des dossiers criminels historiques.",
+        "racial": "Programmes d'équité sociale inspirés du Massachusetts voisin.",
+        "economic": "Marché en croissance rapide captant la demande locale."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Rhode Island"
+  },
+  "US-SC": {
+    "name": "Caroline du Sud",
+    "flag": "🇺🇸",
+    "alias": "South Carolina",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2014 (Légalisation limitée de l'huile CBD pour épilepsie)",
+      "context": "L'un des états les plus hostiles à toute forme de légalisation THC aux USA."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; criminalisation stricte de l'usager.",
+      "risks": "Prison possible dès la première offense (misdemeanor) ; pas de secours médical.",
+      "analysis": {
+        "social": "Stigmatisation culturelle forte ; refus total du débat sanitaire.",
+        "racial": "Inégalités d'incarcération criantes selon le profil racial.",
+        "economic": "Coût élevé du système répressif face au manque à gagner fiscal."
+      }
+    },
+    "wikipediaSlug": "Cannabis in South Carolina"
+  },
+  "US-SD": {
+    "name": "Dakota du Sud",
+    "flag": "🇺🇸",
+    "alias": "South Dakota",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2020/2022/2024 (Batailles judiciaires et votes populaires rejetant le récréatif)",
+      "context": "Paradoxe : médical voté mais récréatif bloqué par la justice et le vote populaire."
+    },
+    "norml_expert": {
+      "summary": "Usage médical protégé pour les patients inscrits ; récréatif interdit.",
+      "risks": "Police rurale très stricte ; sanctions pénales pour possession sans carte.",
+      "analysis": {
+        "social": "Conflit permanent entre citoyens libéraux et exécutif conservateur.",
+        "racial": "Pressions policières ciblant les réserves natives et les minorités.",
+        "economic": "Inertie bloquant tout développement industriel stable."
+      }
+    },
+    "wikipediaSlug": "Cannabis in South Dakota"
+  },
+  "US-TN": {
+    "name": "Tennessee",
+    "flag": "🇺🇸",
+    "alias": "Tennessee",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi originelle)",
+      "evolution": "2023 (Rejet de la dépénalisation et du médical au Parlement)",
+      "context": "Résistance politique extrême aux réformes du cannabis malgré la demande urbaine."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; criminalisation maintenue par le législatif.",
+      "risks": "Prison possible même pour de petites quantités (misdemeanor).",
+      "analysis": {
+        "social": "Forte stigmatisation ; isolement des patients en zone rurale.",
+        "racial": "Taux d'arrestation raciaux parmi les plus disparates du pays.",
+        "economic": "Poids financier de la prohibition sur le budget de la justice."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Tennessee"
+  },
+  "US-TX": {
+    "name": "Texas",
+    "flag": "🇺🇸",
+    "alias": "Texas",
+    "status": "prohibited",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1931 (Texas Narcotics Law)",
+      "evolution": "2015 (TCUP : médical restrictif) ; 2022-2024 (Vagues de dépénalisations locales)",
+      "context": "Le grand paradoxe : prohibition d'état stricte mais tolérance urbaine (Austin, Dallas, SA)."
+    },
+    "norml_expert": {
+      "summary": "Sécurité juridique nulle à l'échelle de l'état ; tolérance locale selon la ville.",
+      "risks": "Interdictions sévères pour les concentrés (Vape/Wax) considérés comme criminels (felony).",
+      "analysis": {
+        "social": "Guerre politique entre les villes progressistes et l'exécutif de l'état.",
+        "racial": "Incarcérations massives pour cannabis touchant les minorités (plus de 60 000 arrestations/an).",
+        "economic": "Perte de milliards en revenus fiscaux ; coût d'opportunité colossal."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Texas"
+  },
+  "US-UT": {
+    "name": "Utah",
+    "flag": "🇺🇸",
+    "alias": "Utah",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1915 (Loi originelle sous influence religieuse)",
+      "evolution": "2018 (Proposition 2 : légalisation médicale stricte)",
+      "context": "État conservateur avec un programme médical hautement régulé et contrôlé."
+    },
+    "norml_expert": {
+      "summary": "Usage récréatif criminalisé ; accès médical sécurisé mais bureaucratique.",
+      "risks": "Prison possible pour possession sans carte ; interdiction de fumer (vaporisation seule autorisée).",
+      "analysis": {
+        "social": "Forte influence culturelle de l'église LDS sur la politique des drogues.",
+        "racial": "Disparités d'arrestation faibles par rapport à la moyenne nationale.",
+        "economic": "Développement d'un réseau de dispensaires à l'esthétique 'pharmaceutique'."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Utah"
+  },
+  "US-VT": {
+    "name": "Vermont",
+    "flag": "🇺🇸",
+    "alias": "Vermont",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2018 (Légalisation par le législatif) ; 2020 (Lancement du marché régulé)",
+      "context": "Culture libérale axée sur les petits producteurs et l'autoproduction (2 plants)."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'adulte ; marché 'Craft' local florissant.",
+      "risks": "Possession publique limitée (1 ounce) ; règles de conduite strictes.",
+      "analysis": {
+        "social": "Normalisation rurale exemplaire ; focus sur l'écologie.",
+        "racial": "L'un des états les plus proactifs sur la suppression des casiers.",
+        "economic": "Succès économique du modèle de vente au détail 'Small Business'."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Vermont"
+  },
+  "US-VA": {
+    "name": "Virginie",
+    "flag": "🇺🇸",
+    "alias": "Virginia",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2021 (Légalisation totale mais marché commercial bloqué politiquement)",
+      "context": "Zone grise : possession et culture privées légales, mais vente interdite."
+    },
+    "norml_expert": {
+      "summary": "Liberté de possession (1 ounce) et d'auto-culture (4 plants) ; pas de boutiques légale.",
+      "risks": "Recours au marché noir nécessaire en l'absence de dispensaires récréatifs.",
+      "analysis": {
+        "social": "Droit de cultiver chez soi acquis mais frustration face à l'offre commerciale.",
+        "racial": "Réduction drastique des arrestations de rue.",
+        "economic": "Inertie politique bloquant des centaines de millions en revenus potentiels."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Virginia"
+  },
+  "US-PR": {
+    "name": "Porto Rico",
+    "flag": "🇺🇸",
+    "alias": "Puerto Rico",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1932 (Influence US)",
+      "evolution": "2015 (Légalisation médicale par décret exécutif) ; 2024 (Consolidation du marché médical)",
+      "context": "Usage médical florissant mais usage récréatif formellement décriminalisé pour les petites doses."
+    },
+    "norml_expert": {
+      "summary": "Liberté médicale élevée ; climat de tolérance pour l'usage privé.",
+      "risks": "Possession massive non médicale reste criminelle ; contrôles fédéraux FAA/TCH aux aéroports.",
+      "analysis": {
+        "social": "Acceptation sociale massive impulsée par le tourisme US.",
+        "racial": "Réduction des tensions policières liées à la weed.",
+        "economic": "Moteur économique local (tourisme médical) générant des millions en taxes."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Porto Rico"
+  },
+  "US-WA": {
+    "name": "Washington",
+    "flag": "🇺🇸",
+    "alias": "Washington",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1923 (Loi originelle)",
+      "evolution": "2012 (I-502 : premier état avec le CO à légaliser totalement)",
+      "context": "Modèle pionnier solide avec un contrôle étatique très fort (LCB)."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'usager adulte ; marché mature et vaste choix.",
+      "risks": "Auto-culture récréative interdite (cas unique pour un état légal) ; médical seul autorisé.",
+      "analysis": {
+        "social": "Normalisation sociale totale ; consommation ancrée dans le paysage urbain.",
+        "racial": "Efforts continus sur l'équité suite à une inertie initiale.",
+        "economic": "Revenus fiscaux dépassant les 500 M$ annuels ; prix très compétitifs."
+      }
+    },
+    "wikipediaSlug": "Cannabis dans l'État de Washington"
+  },
+  "US-WV": {
+    "name": "Virginie-Occidentale",
+    "flag": "🇺🇸",
+    "alias": "West Virginia",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2017 (Medical Cannabis Act opérationnel depuis 2021)",
+      "context": "Usage médical autorisé mais répression récréative persistante."
+    },
+    "norml_expert": {
+      "summary": "Liberté limitée aux patients ; usage récréatif criminalisé.",
+      "risks": "Possession simple passible de prison (misdemeanor) ; pas de décriminalisation d'état.",
+      "analysis": {
+        "social": "Crise des opioïdes poussant vers le cannabis médical comme alternative.",
+        "racial": "Disparités d'arrestation raciales persistantes en zone rurale.",
+        "economic": "Industrie médicale en pleine croissance (plus de 100 M$)."
+      }
+    },
+    "wikipediaSlug": "Cannabis in West Virginia"
+  },
+  "US-WI": {
+    "name": "Wisconsin",
+    "flag": "🇺🇸",
+    "alias": "Wisconsin",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1939 (Loi sur les stupéfiants)",
+      "evolution": "2023 (Rejet systémique des réformes par le législatif républicain)",
+      "context": "Inertie politique totale malgré la légalisation dans tous les états voisins."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; le citoyen est traqué par la loi d'état.",
+      "risks": "Arrestations pour possession simple ; confiscation systématique.",
+      "analysis": {
+        "social": "Décalage massif avec l'opinion publique ; frustration des résidents.",
+        "racial": "Taux d'arrestation des noirs jusqu'à 10x supérieur à celui des blancs.",
+        "economic": "Fuite massive de taxes vers l'Illinois, le Michigan et le Minnesota."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Wisconsin"
+  },
+  "US-WY": {
+    "name": "Wyoming",
+    "flag": "🇺🇸",
+    "alias": "Wyoming",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2021 (Échec de la décriminalisation au Sénat local)",
+      "context": "L'un des états les plus hostiles et répressifs des USA."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; criminalisation totale incluant Delta-8/9 et CBD.",
+      "risks": "Peines de prison effectives pour possession simple ; police de transit très active.",
+      "analysis": {
+        "social": "Climat d'intimidation pour les usagers ; refus total de réforme sociale.",
+        "racial": "Coût social lié à l'incarcération disproportionnée.",
+        "economic": "Rejet des nouvelles opportunités économiques agricoles."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Wyoming"
+  }
+}

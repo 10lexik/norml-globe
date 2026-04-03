@@ -1,0 +1,1106 @@
+{
+  "ZA": {
+    "name": "Afrique du Sud",
+    "flag": "🇿🇦",
+    "alias": "South Africa",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1922 (Loi originelle)",
+      "evolution": "2024 (Signature du Cannabis for Private Purposes Act ratifiant l'arrêt de la Cour Constitutionnelle de 2018)",
+      "context": "Liberté constitutionnelle : le droit à la vie privée autorise la culture et l'usage personnels."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale en privé ; possession publique décriminalisée.",
+      "risks": "Vente commerciale récréative non encore encadrée (marché gris) ; risques juridiques pour les dispensaires de rue.",
+      "analysis": {
+        "social": "Usage traditionnel (Dagga) enfin réhabilité légalement.",
+        "racial": "Fin symbolique d'une législation héritée de l'Apartheid utilisée pour réprimer les noirs.",
+        "economic": "Potentiel industriel colossal (Green Gold) freiné par l'absence de régulation commerciale."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en Afrique du Sud"
+  },
+  "MA": {
+    "name": "Maroc",
+    "flag": "🇲🇦",
+    "alias": "Morocco",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1954 (Interdiction française sous le protectorat)",
+      "evolution": "2021 (Loi 13-21 : création de l'ANRAC pour réguler le cannabis médical et industriel)",
+      "context": "Premier producteur mondial de haschich, opérant un virage légal stratégique pour l'exportation médicale."
+    },
+    "norml_expert": {
+      "summary": "Usage récréatif toléré localement (Nord) ; cadre médical/industriel désormais légal et strict.",
+      "risks": "Sanctions pénales sévères hors coopératives licenciées par l'ANRAC.",
+      "analysis": {
+        "social": "Normalisation sociale : le Kif sort de l'ombre pour devenir une ressource agricole officielle.",
+        "racial": "Pacification des tensions dans la région du Rif entre cultivateurs et État.",
+        "economic": "Ambition de capter 10% du marché européen du cannabis médical."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Maroc"
+  },
+  "EG": {
+    "name": "Égypte",
+    "flag": "🇪🇬",
+    "alias": "Egypt",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1879 (Première interdiction khédivale)",
+      "evolution": "1925 (Protocole de Genève interdisant le haschich)",
+      "context": "L'un des plus anciens pays prohibitionnistes ; répression maintenue malgré un usage traditionnel."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal élevé.",
+      "risks": "Peine de mort applicable pour trafic lourd ; prison pour possession simple.",
+      "analysis": {
+        "social": "Stigmatisation forte ; usage de haschich clandestin mais répandu.",
+        "racial": "Contrôle social via la répression des drogues.",
+        "economic": "Pertes financières sèches liées à l'absence de régulation industrielle."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Égypte"
+  },
+  "NG": {
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "alias": "Nigeria",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1935 (Indian Hemp Act coloniale)",
+      "evolution": "2024 (Répression accrue par la NDLEA contre les cultivateurs locaux)",
+      "context": "Prohibition stricte et sanctions pénales lourdes malgré une consommation nationale massive."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; traque active de la NDLEA.",
+      "risks": "Jusqu'à 12 ans de prison pour possession ; abus policiers fréquents.",
+      "analysis": {
+        "social": "Criminallisation généralisée d'une plante ancrée dans la vie quotidienne.",
+        "racial": "Lutte contre la drogue utilisée pour le contrôle social urbain.",
+        "economic": "Refus de légaliser malgré le titre de plus gros producteur d'Afrique de l'Ouest."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Nigeria"
+  },
+  "KE": {
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "alias": "Kenya",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence coloniale)",
+      "evolution": "2024 (Dépôt récurrent de pétitions pour la légalisation médicale rejetées par le Parlement)",
+      "context": "Prohibition rigide maintenue par un conservatisme religieux fort."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; sanctions pénales sévères.",
+      "risks": "Prison (10-20 ans) pour possession ; corruption policière fréquente au contrôle.",
+      "analysis": {
+        "social": "Stigmatisation totale ; le cannabis est perçu comme lié au vice moral.",
+        "racial": "Ciblage préférentiel des jeunes urbains défavorisés.",
+        "economic": "Pertes de revenus agricoles majeurs au profit d'une répression coûteuse."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Kenya"
+  },
+  "UG": {
+    "name": "Ouganda",
+    "flag": "🇺🇬",
+    "alias": "Uganda",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Loi coloniale)",
+      "evolution": "2020 (Approbation par le gouvernement de licences de production pour l'export)",
+      "context": "Usage local interdit mais l'État autorise la production industrielle pour le marché mondial."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle pour le citoyen ; liberté totale pour les firmes d'export.",
+      "risks": "Prison systématique pour possession domestique ; saisies violentes.",
+      "analysis": {
+        "social": "Contradiction entre export légal lucratif et répression locale féroce.",
+        "racial": "Élite captive des profits de l'export face à une population criminalisée.",
+        "economic": "Marché d'exportation vers l'Europe et Israël en pleine croissance."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Ouganda"
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "flag": "🇿🇼",
+    "alias": "Zimbabwe",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1923 (Dangerous Drugs Act)",
+      "evolution": "2018 (Légalisation de la production médicale via SI 62/2018)",
+      "context": "Virage pragmatique pour attirer l'investissement étranger dans le 'Green Gold'."
+    },
+    "norml_expert": {
+      "summary": "Usage récréatif interdit ; accès médical en cours de structuration.",
+      "risks": "Prison pour possession récréative ; cadre légal strict pour la production.",
+      "analysis": {
+        "social": "Début de changement de narratif : la weed devient une 'opportunité' nationale.",
+        "racial": "Promotion des licences pour les petits fermiers locaux (théoriquement).",
+        "economic": "Revenus d'export attendus dépassant le milliard de dollars à terme."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Zimbabwe"
+  },
+  "LS": {
+    "name": "Lesotho",
+    "flag": "🇱🇸",
+    "alias": "Lesotho",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Influence coloniale)",
+      "evolution": "2017 (Premier pays d'Afrique à accorder des licences de cannabis médical)",
+      "context": "Le Lesotho se positionne comme l'usine de cannabis médical de l'hémisphère Sud."
+    },
+    "norml_expert": {
+      "summary": "Usage personnel toléré de fait ; paradis de la production médicale.",
+      "risks": "Flou juridique sur l'usage récréatif ; danger de saisie si non-local.",
+      "analysis": {
+        "social": "Culture traditionnelle ancestrale (Matekoane) désormais valorisée industriellement.",
+        "racial": "Inégalités entre investisseurs étrangers et petites fermes de montagne.",
+        "economic": "Principal moteur économique du pays (produit intérieur brut dopé par le cannabis)."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Lesotho"
+  },
+  "GH": {
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "alias": "Ghana",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi coloniale)",
+      "evolution": "2023 (Loi Narcotics Control Commission autorisant le chanvre industriel <0.3% THC)",
+      "context": "Ouverture industrielle mais maintien de la criminalisation sévère pour le THC."
+    },
+    "norml_expert": {
+      "summary": "Usage récréatif interdit ; futur hub du chanvre industriel.",
+      "risks": "Longues peines de prison pour usage personnel ; police zélée.",
+      "analysis": {
+        "social": "Stigmatisation persistante ; l'usager reste un 'criminel' aux yeux de la loi.",
+        "racial": "Disparités d'incarcération liées à la classe sociale.",
+        "economic": "Potentiel immense de diversification agricole via le chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Ghana"
+  },
+  "RW": {
+    "name": "Rwanda",
+    "flag": "🇷🇼",
+    "alias": "Rwanda",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930s (Loi coloniale)",
+      "evolution": "2021 (Régulation autorisant la production pour l'export médical)",
+      "context": "Modèle de contrôle étatique strict : export légal mais consommation locale bannie."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle pour le citoyen ; système d'exportation ultra-sécurisé.",
+      "risks": "Prison à perpétuité pour possession/trafic local ; surveillance d'élite.",
+      "analysis": {
+        "social": "Discipline étatique extrême ; rejet total de la normalisation populaire.",
+        "racial": "Contrôle social parfait via la lutte anti-drogue.",
+        "economic": "Investissements high-tech pour l'industrie médicinale d'exportation."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Rwanda"
+  },
+  "MW": {
+    "name": "Malawi",
+    "flag": "🇲🇼",
+    "alias": "Malawi",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Indian Hemp Act)",
+      "evolution": "2020 (Cannabis Act autorisant le cannabis médical et industriel)",
+      "context": "Célèbre pour sa souche 'Malawi Gold', le pays tente de régulariser son héritage agricole."
+    },
+    "norml_expert": {
+      "summary": "Liberté faible pour le récréatif ; nouvelle ère pour le chanvre et le médical.",
+      "risks": "Arrestations pour culture récréative ; absence de dispensaires légaux pour les locaux.",
+      "analysis": {
+        "social": "Fierté nationale liée à la qualité génétique locale ; espoir de réforme.",
+        "racial": "Pression sur les petits fermiers traditionnels face aux nouvelles licences.",
+        "economic": "Espoir de faire du cannabis le premier produit d'exportation devant le tabac."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Malawi"
+  },
+  "ZM": {
+    "name": "Zambie",
+    "flag": "🇿🇲",
+    "alias": "Zambia",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930s (Loi coloniale)",
+      "evolution": "2019 (Décret légalisant la culture de cannabis pour l'export médical)",
+      "context": "Transition économique vers le cannabis médical gérée par l'armée et le ministère de la santé."
+    },
+    "norml_expert": {
+      "summary": "Usage récréatif interdit ; économie d'exportation naissante.",
+      "risks": "Prison pour possession domestique ; licences d'exportation extrêmement coûteuses.",
+      "analysis": {
+        "social": "Usage traditionnel existant mais réprimé par la loi moderne.",
+        "racial": "Accès privilégié des investisseurs capitaux au détriment de l'usager.",
+        "economic": "Potentiel de diversification agricole majeur dans une économie post-minière."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Zambie"
+  },
+  "MU": {
+    "name": "Maurice",
+    "flag": "🇲🇺",
+    "alias": "Mauritius",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1934 (Dangerous Drugs Ordinance)",
+      "evolution": "2022 (Légalisation thérapeutique restreinte validée par le Cabinet)",
+      "context": "L'un des pays les plus répressifs de la région, assouplit sa ligne sur le médical."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle quasi nulle ; accès médical très limité.",
+      "risks": "Emprisonnement massif pour possession récréative ; amendes colossales.",
+      "analysis": {
+        "social": "Stigmatisation extrême maintenue par des lois anti-drogue draconiennes.",
+        "racial": "Contrôle disproportionné des jeunes issus des quartiers défavorisés.",
+        "economic": "Pression touristique poussant vers un modèle médical (Sativex/Epidiolex)."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Maurice"
+  },
+  "DZ": {
+    "name": "Algérie",
+    "flag": "🇩🇿",
+    "alias": "Algeria",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Période coloniale)",
+      "evolution": "2004 (Loi 04-18 relative à la prévention et à la répression de l'usage)",
+      "context": "Prohibition formelle sévère et sanctions pénales de prison dès la 1ère infraction."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; traque systématique de l'amateur de 'Zatla'.",
+      "risks": "6 mois à 2 ans de prison fermes pour possession simple ; surveillance policière active.",
+      "analysis": {
+        "social": "Stigmatisation sociale forte ; usage clandestin risqué.",
+        "racial": "Utilisation de la répression comme outil de contrôle de la jeunesse urbaine.",
+        "economic": "Gaspillage budgétaire colossal dans la répression de l'usager."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Algérie"
+  },
+  "TN": {
+    "name": "Tunisie",
+    "flag": "🇹🇳",
+    "alias": "Tunisia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Protectorat français)",
+      "evolution": "1992 (Loi 52 instaurant 1 an de prison systématique) ; 2024 (Amortissement des peines au cas par cas)",
+      "context": "Passage progressif d'une répression féroce vers une approche plus judiciaire (pouvoir de clémence des juges)."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; incarcération encore possible malgré le débat sur la 'Loi 52'.",
+      "risks": "Tests urinaires imposés par la police ; risque de prison (Zatla).",
+      "analysis": {
+        "social": "Jeunesse brisée par des peines disproportionnées (plusieurs milliers de détenus).",
+        "racial": "Ciblage social net des classes populaires urbaines.",
+        "economic": "Projets de chanvre industriel bloqués par la méfiance étatique."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Tunisie"
+  },
+  "ET": {
+    "name": "Éthiopie",
+    "flag": "🇪🇹",
+    "alias": "Ethiopia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "1994 (Criminalisation maintenue malgré le rôle spirituel du cannabis pour certaines communautés)",
+      "context": "Prohibition stricte malgré l'existence d'une culture indigène historique (Shashamane)."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; usage clandestin risqué.",
+      "risks": "Emprisonnement pour possession ; danger pour les pèlerins rastafaris.",
+      "analysis": {
+        "social": "Conflit culturel entre usage spirituel historique et lois prohibitionnistes modernes.",
+        "racial": "Répression ciblée dans les régions productrices traditionnelles.",
+        "economic": "Absence totale de cadre légal industriel malgré un climat propice."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Éthiopie"
+  },
+  "CD": {
+    "name": "RDC (Congo)",
+    "flag": "🇨🇩",
+    "alias": "Congo-Kinshasa",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1923 (Loi coloniale belge)",
+      "evolution": "2023 (Maintien de la criminalisation malgré une production informelle immense)",
+      "context": "Prohibition formelle sévère mais application très inégale selon les zones de conflit."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire et corruption endémique.",
+      "risks": "Incarcération arbitraire ; usage utilisé comme motif de pression policière.",
+      "analysis": {
+        "social": "Usage traditionnel répandu mais stigmatisé par le droit formel.",
+        "racial": "Contrôle social chaotique lié à l'instabilité sécuritaire.",
+        "economic": "Économie souterraine massive alimentant les réseaux armés en l'absence d'État."
+      }
+    },
+    "wikipediaSlug": "Cannabis en RDC"
+  },
+  "SN": {
+    "name": "Sénégal",
+    "flag": "🇸🇳",
+    "alias": "Senegal",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence coloniale)",
+      "evolution": "2024 (Répression accrue contre le trafic interfrontalier)",
+      "context": "Prohibition formelle stricte malgré un usage traditionnel persistant."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal réel.",
+      "risks": "Prison pour possession simple ; surveillance policière urbaine.",
+      "analysis": {
+        "social": "Stigmatisation sociale forte ; usage clandestin risqué.",
+        "racial": "Contrôle social via la législation répressive.",
+        "economic": "Refus dogmatique de valoriser les ressources liées au chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Sénégal"
+  },
+  "CI": {
+    "name": "Côte d'Ivoire",
+    "flag": "🇨🇮",
+    "alias": "Ivory Coast",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi coloniale)",
+      "evolution": "2023 (Lancements de vastes opérations d'éradication de cultures locales)",
+      "context": "Politique de tolérance zéro absolue sans exception médicale."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Peines de prison de 1 à 5 ans pour usage ; police zélée.",
+      "analysis": {
+        "social": "Tabou social massif ; l'usager est perçu comme une menace morale.",
+        "racial": "Ciblage préférentiel de la jeunesse urbaine des communes populaires.",
+        "economic": "Absence totale de cadre légal industriel malgré un climat propice."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Côte d'Ivoire"
+  },
+  "CM": {
+    "name": "Cameroun",
+    "flag": "🇨🇲",
+    "alias": "Cameroon",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2024 (Maintien de la prohibition stricte malgré la production informelle de montagne)",
+      "context": "Prohibition criminelle sévère gérée par les forces de défense et de sécurité."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire permanent.",
+      "risks": "Incarcération pour possession ; usage utilisé comme motif de pression politique.",
+      "analysis": {
+        "social": "Acceptation sociale de fait en zone rurale mais stigmatisation en ville.",
+        "racial": "Contrôle social rigide affectant les zones marginalisées.",
+        "economic": "Économie souterraine importante mais criminelle."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Cameroun"
+  },
+  "AO": {
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "alias": "Angola",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi coloniale portugaise)",
+      "evolution": "1999 (Renforcement de la loi sur les stupéfiants)",
+      "context": "Prohibition totale malgré l'existence d'une culture sauvage historique (Liamba)."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal significatif.",
+      "risks": "De 2 à 8 ans de prison pour possession ; police active lors des inspections routières.",
+      "analysis": {
+        "social": "Stigmatisation sociale forte ; usage majoritairement clandestin.",
+        "racial": "Control social via la répression judiciaire.",
+        "economic": "Zéro opportunité économique légale malgré un potentiel agricole immense."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Angola"
+  },
+  "ML": {
+    "name": "Mali",
+    "flag": "🇲🇱",
+    "alias": "Mali",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Protectorat français)",
+      "evolution": "2023 (Répression maintenue dans les zones sécurisées)",
+      "context": "Prohibition formelle stricte ; usage régulé par la loi pénale d'exception."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; instabilité sécuritaire aggravant le risque judiciaire.",
+      "risks": "Emprisonnement pour possession ; danger au franchissement des checkpoints.",
+      "analysis": {
+        "social": "Usage traditionnel séculaire en contradiction avec le droit moderne.",
+        "racial": "Contrôle social chaotique lié au climat de guerre.",
+        "economic": "Économie parallèle finançant l'instabilité en l'absence de régulation."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Mali"
+  },
+  "NE": {
+    "name": "Niger",
+    "flag": "🇳🇪",
+    "alias": "Niger",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Protectorat français)",
+      "evolution": "2024 (Répression accrue des flux transsahariens)",
+      "context": "Système de prohibition totale sans aucun cadre médical."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Prison et lourdes amendes pour possession simple.",
+      "analysis": {
+        "social": "Tabou religieux et social dominant.",
+        "racial": "Usage utilisé pour le contrôle des flux migratoires et transfrontaliers.",
+        "economic": "Refus dogmatique de toute industrie liée au THC ou au chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Niger"
+  },
+  "TD": {
+    "name": "Tchad",
+    "flag": "🇹🇩",
+    "alias": "Chad",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Protectorat français)",
+      "evolution": "2023 (Maintien de la prohibition stricte)",
+      "context": "Prohibition totale gérée par l'appareil sécuritaire."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire permanent.",
+      "risks": "Emprisonnement sévère pour possession simple.",
+      "analysis": {
+        "social": "Usage traditionnel existant mais réprimé sans concession.",
+        "racial": "Contrôle social rigide.",
+        "economic": "Inexistence totale de filière légale."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Tchad"
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "alias": "Burkina Faso",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence internationale)",
+      "evolution": "2024 (Maintien de la prohibition malgré l'usage traditionnel rattaché à l'agriculture)",
+      "context": "Prohibition légale stricte au niveau national."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque judiciaire effectif.",
+      "risks": "Prison pour possession ; surveillance accrue des transports.",
+      "analysis": {
+        "social": "Stigmatisation en milieu urbain contre tolérance tacite en zone rurale reculée.",
+        "racial": "Contrôle social via la répression policière.",
+        "economic": "Refus de valorisation de la biomasse cultivée informellement."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Burkina Faso"
+  },
+  "BJ": {
+    "name": "Bénin",
+    "flag": "🇧🇯",
+    "alias": "Benin",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence coloniale)",
+      "evolution": "2023 (Saisies records par l'OCERTID dans les ports)",
+      "context": "Politique de prohibition alignée sur les normes internationales."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire modéré à élevé.",
+      "risks": "Prison pour possession et trafic ; répression active dans les zones portuaires.",
+      "analysis": {
+        "social": "Socialement tabou malgré une disponibilité locale persistante.",
+        "racial": "Ciblage urbain classique.",
+        "economic": "Inertie administrative bloquant tout nouveau cadre industriel."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Bénin"
+  },
+  "TG": {
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "alias": "Togo",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence coloniale)",
+      "evolution": "2024 (Maintien d'une ligne dure répressive)",
+      "context": "Système de prohibition intégrale sans ouverture médicale."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal certain.",
+      "risks": "Prison pour possession minime ; surveillance douanière accrue.",
+      "analysis": {
+        "social": "Image de désapprobation sociale complète.",
+        "racial": "Contrôle préventif au faciès.",
+        "economic": "Opportunité gâchée d'une industrie de transformation du chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Togo"
+  },
+  "GN": {
+    "name": "Guinée",
+    "flag": "🇬🇳",
+    "alias": "Guinea",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Loi stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; prohibition absolue.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "Contrôle.",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Guinée"
+  },
+  "BI": {
+    "name": "Burundi",
+    "flag": "🇧🇮",
+    "alias": "Burundi",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi coloniale belge)",
+      "evolution": "2024 (Maintien de la prohibition totale malgré la pauvreté rurale)",
+      "context": "Cadre législatif figé hérité de la période coloniale."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire stricte.",
+      "risks": "Prison pour possession simple ; arbitraire policier en zone rurale.",
+      "analysis": {
+        "social": "Stigmatisation forte ; usage de survie caché par les populations agricoles.",
+        "racial": "Contrôle social rigide via la lutte anti-drogue.",
+        "economic": "Inexistence de filière légale ; opportunités de chanvre gâchées."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Burundi"
+  },
+  "CV": {
+    "name": "Cabo Verde",
+    "flag": "🇨🇻",
+    "alias": "Cabo Verde",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi portugaise)",
+      "evolution": "2023 (Débats sur la dépénalisation pour favoriser le tourisme)",
+      "context": "Lois strictes mais tolérance culturelle informelle croissante."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle faible ; cadre légal répressif malgré la culture insulaire.",
+      "risks": "Arrestations possibles pour usage public ; vigilance douanière aux aéroports.",
+      "analysis": {
+        "social": "Acceptation sociale modérée ; le cannabis est présent dans la culture jeune.",
+        "racial": "Impact limité des disparités raciales.",
+        "economic": "Potentiel touristique cannabique en attente de cadre législatif."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Cap-Vert"
+  },
+  "KM": {
+    "name": "Comores",
+    "flag": "🇰🇲",
+    "alias": "Comoros",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Influence des lois islamiques et traditionnelles."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; poids de la religion sur la législation.",
+      "risks": "Sanctions pénales et stigmatisation religieuse forte.",
+      "analysis": {
+        "social": "Tabou social massif.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Comores"
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "flag": "🇩🇯",
+    "alias": "Djibouti",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Position stratégique renforçant les contrôles douaniers."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; surveillance d'État extrême.",
+      "risks": "Prison systématique pour possession ; tolérance zéro.",
+      "analysis": {
+        "social": "Stigmatisation totale ; concurrence avec le Khat traditionnel.",
+        "racial": "Contrôle des flux transfrontaliers.",
+        "economic": "Focus unique sur la sécurité portuaire."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Djibouti"
+  },
+  "GQ": {
+    "name": "Guinée Équatoriale",
+    "flag": "🇬🇶",
+    "alias": "Equatorial Guinea",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930 (Loi espagnole)",
+      "evolution": "2024",
+      "context": "Régime autoritaire avec une politique de stupéfiants extrêmement répressive."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire extrême.",
+      "risks": "Prison arbitraire et peines lourdes pour toute quantité.",
+      "analysis": {
+        "social": "Climat de peur et de délation.",
+        "racial": "Répression used comme outil politique.",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Guinée équatoriale"
+  },
+  "ER": {
+    "name": "Érythrée",
+    "flag": "🇪🇷",
+    "alias": "Eritrea",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Système de contrôle social totalitaire."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; Etat policier.",
+      "risks": "Incarcération indéfinie pour usage ou possession.",
+      "analysis": {
+        "social": "Inexistence de débat public.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Érythrée"
+  },
+  "SZ": {
+    "name": "Eswatini",
+    "flag": "🇸🇿",
+    "alias": "Eswatini",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1922 (Loi coloniale britannique)",
+      "evolution": "2023 (Débats au Parlement sur la légalisation du cannabis médical pour relancer l'économie)",
+      "context": "Paradoxe : l'un des plus gros producteurs illégaux (Swazi Gold) mais une répression locale féroce."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle faible pour l'usager ; paradoxe producteur/répresseur.",
+      "risks": "Prison pour culture sans licence royale ; corruption policière.",
+      "analysis": {
+        "social": "Usage traditionnel répandu mais stigmatisé par l'élite.",
+        "racial": "Exploitation rurale par les réseaux de trafic.",
+        "economic": "Potentiel de premier plan pour le cannabis médical en Afrique australe."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Eswatini"
+  },
+  "GM": {
+    "name": "Gambie",
+    "flag": "🇬🇲",
+    "alias": "Gambia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1935 (Indian Hemp Act)",
+      "evolution": "2024 (Répression maintenue par la DLEAG malgré les suggestions de réforme touristique)",
+      "context": "Prohibition stricte visant la moralité publique."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; traque des usagers locaux et touristes.",
+      "risks": "Prison et amendes lourdes ; contrôles routiers fréquents.",
+      "analysis": {
+        "social": "Stigmatisation forte malgré une consommation de plage tolérée de fait (risquée).",
+        "racial": "Impact disproportionné sur la jeunesse urbaine.",
+        "economic": "Frein majeur au développement du tourisme spécialisé."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Gambie"
+  },
+  "GW": {
+    "name": "Guinée-Bissau",
+    "flag": "🇬🇼",
+    "alias": "Guinea-Bissau",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Instabilité politique favorisant les réseaux de transit international."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; Etat fragile face au trafic.",
+      "risks": "Prison pour possession ; arbitraire judiciaire.",
+      "analysis": {
+        "social": "Usage traditionnel existant but stigmatisé.",
+        "racial": "Contrôle social via la répression des drogues.",
+        "economic": "Économie de transit non régulée."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Guinée-Bissau"
+  },
+  "LR": {
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "alias": "Liberia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois sévères visant la santé publique après les guerres civiles."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression active.",
+      "risks": "Prison pour usage et possession.",
+      "analysis": {
+        "social": "Stigmatisation des usagers perçus comme 'instables'.",
+        "racial": "N/A",
+        "economic": "Gaspillage des ressources de sécurité."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Liberia"
+  },
+  "LY": {
+    "name": "Libye",
+    "flag": "🇱🇾",
+    "alias": "Libya",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Droit islamique et instabilité sécuritaire."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger de mort/prison extrême.",
+      "risks": "Peine capitale théorique pour trafic ; prison pour usage.",
+      "analysis": {
+        "social": "Tabou religieux absolu.",
+        "racial": "Ciblage des milices.",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Libye"
+  },
+  "MR": {
+    "name": "Mauritanie",
+    "flag": "🇲🇷",
+    "alias": "Mauritania",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Législation alignée sur la Charia pour les stupéfiants."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression religieuse et pénale.",
+      "risks": "Lourdes peines de prison ; stigmatisation sociale définitive.",
+      "analysis": {
+        "social": "Rejet social total.",
+        "racial": "Usage utilisé pour le contrôle des populations nomades.",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Mauritanie"
+  },
+  "NA": {
+    "name": "Namibie",
+    "flag": "🇳🇦",
+    "alias": "Namibia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1971 (Abuse of Substances Act - Influence Sud-Africaine passée)",
+      "evolution": "2024 (Débats sur la légalisation médicale suite au succès de l'Afrique du Sud)",
+      "context": "Conservatisme législatif malgré une forte pression sociale pour la réforme."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle faible ; l'usager reste un criminel.",
+      "risks": "Arrestations fréquentes pour possession simple ; refus du médical.",
+      "analysis": {
+        "social": "Forte demande chez les jeunes urbains (Windhoek).",
+        "racial": "Tensions policières dans les townships.",
+        "economic": "Fuite de capitaux vers l'Afrique du Sud légale."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Namibie"
+  },
+  "SC": {
+    "name": "Seychelles",
+    "flag": "🇸🇨",
+    "alias": "Seychelles",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2020 (Légalisation thérapeutique sous conditions strictes)",
+      "context": "Le pays le plus riche d'Afrique amorce un virage médical."
+    },
+    "norml_expert": {
+      "summary": "Liberté médicale croissante ; récréatif toujours illégal.",
+      "risks": "Amendes pour usage public ; cadre médical très bureaucratisé.",
+      "analysis": {
+        "social": "Normalisation via le soin.",
+        "racial": "N/A",
+        "economic": "Tourisme de santé en perspective."
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Seychelles"
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "flag": "🇸🇱",
+    "alias": "Sierra Leone",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Loi stricte malgré une culture sauvage très présente dans le pays."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression paradoxale face à l'omniprésence de la plante.",
+      "risks": "Prison pour culture et possession ; abus de pouvoir.",
+      "analysis": {
+        "social": "Usage populaire massif mais criminalisé.",
+        "racial": "Ciblage des plus pauvres.",
+        "economic": "Opportunité agricole non exploitée."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Sierra Leone"
+  },
+  "SO": {
+    "name": "Somalie",
+    "flag": "🇸🇴",
+    "alias": "Somalia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Influence majeure de la Charia et instabilité étatique."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger extrême.",
+      "risks": "Sanctions religieuses et pénales sévères ; arbitraire total.",
+      "analysis": {
+        "social": "Stigmatisation religieuse absolue.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Somalie"
+  },
+  "SS": {
+    "name": "Soudan du Sud",
+    "flag": "🇸🇸",
+    "alias": "South Sudan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois héritées du Soudan et adaptées après l'indépendance."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression dans un contexte de fragilité étatique.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Usage traditionnel existant but réprimé.",
+        "racial": "N/A",
+        "economic": "Zéro perspective légale."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Soudan du Sud"
+  },
+  "SD": {
+    "name": "Soudan",
+    "flag": "🇸🇩",
+    "alias": "Sudan",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1924 (Loi sur les stupéfiants)",
+      "evolution": "2024 (Régime de prohibition stricte maintenu sous la Charia)",
+      "context": "L'un des systèmes les plus répressifs au monde pour les drogues."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger pénal majeur.",
+      "risks": "Peines de prison et châtiments corporels possibles selon les zones.",
+      "analysis": {
+        "social": "Tabou social et religieux total.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Soudan"
+  },
+  "TZ": {
+    "name": "Tanzanie",
+    "flag": "🇹🇿",
+    "alias": "Tanzania",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Influence britannique)",
+      "evolution": "2024 (Opérations massives d'incendie de plantations illégales dans le Nord)",
+      "context": "Prohibition rigide malgré une production nationale importante."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; traque active de la DCEA.",
+      "risks": "Longues peines de prison (jusqu'à 30 ans) pour possession et culture.",
+      "analysis": {
+        "social": "Stigmatisation forte ; l'usager est assimilé à un criminel de droit commun.",
+        "racial": "Contrôle social prégnant.",
+        "economic": "Immense potentiel agricole inexploité au profit d'une politique de terre brûlée."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Tanzanie"
+  },
+  "EH": {
+    "name": "Sahara Occidental",
+    "flag": "🇪🇭",
+    "alias": "Western Sahara",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Statut de territoire disputé avec une surveillance militaire forte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; zone de haute surveillance.",
+      "risks": "Arrestations militaires et civiles pour toute possession.",
+      "analysis": {
+        "social": "Usage traditionnel existant but très risqué.",
+        "racial": "Controle social via la sécurité territoriale.",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Maroc"
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "AU": {
+    "name": "Australie",
+    "flag": "🇦🇺",
+    "alias": "Australia",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1928 (Dangerous Drugs Act)",
+      "evolution": "2020 (Légalisation récréative dans le Territoire de la Capitale - ACT)",
+      "context": "Système fédéral complexe : légal dans la capitale, dépénalisé dans certains états (SA/NT), criminel ailleurs."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée pour les patients et résidents de l'ACT ; marché médical mature.",
+      "risks": "Règles de conduite très strictes (tolérance zéro THC) ; amendes administratives hors zone légale.",
+      "analysis": {
+        "social": "Normalisation croissante ; fort soutien populaire pour une légalisation fédérale.",
+        "racial": "Inégalités d'arrestation persistantes affectant les populations autochtones.",
+        "economic": "Industrie médicale parmi les plus dynamiques au monde (TGA)."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en Australie"
+  },
+  "NZ": {
+    "name": "Nouvelle-Zélande",
+    "flag": "🇳🇿",
+    "alias": "New Zealand",
+    "status": "tolerated",
+    "thc_status": "tolerated",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1927 (Dangerous Drugs Act)",
+      "evolution": "2020 (Échec serré du référendum de légalisation à 50.7%) ; 2020 (Lancement du Medical Cannabis Scheme)",
+      "context": "Politique de tolérance policière guidée : la possession simple ne doit pas faire l'objet de poursuites systématiques."
+    },
+    "norml_expert": {
+      "summary": "Liberté modérée ; accès médical facilité et discrétion policière pour l'usage personnel.",
+      "risks": "Possession publique reste techniquement un délit ; risque de saisie.",
+      "analysis": {
+        "social": "Climat post-référendum : normalisation de fait malgré l'absence de loi récréative.",
+        "racial": "Baisse des disparités d'arrestation pour les populations Maoris grâce à la clémence policière.",
+        "economic": "Secteur médical local en plein essor visant l'exportation haute fidélité."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Nouvelle-Zélande"
+  },
+  "PG": {
+    "name": "Papouasie-Nouvelle-Guinée",
+    "flag": "🇵🇬",
+    "alias": "Papua New Guinea",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1954",
+      "evolution": "2024",
+      "context": "Lois très sévères héritées de l'administration coloniale australienne."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire et sociale forte.",
+      "risks": "Prison pour possession simple ; corruption policière fréquente lors des arrestations.",
+      "analysis": {
+        "social": "Usage traditionnel présent mais criminalisé.",
+        "racial": "N/A",
+        "economic": "Potentiel agricole non exploité."
+      }
+    },
+    "wikipediaSlug": "Cannabis_en_Papouasie-Nouvelle-Guinée"
+  },
+  "FJ": {
+    "name": "Fidji",
+    "flag": "🇫🇯",
+    "alias": "Fiji",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1954",
+      "evolution": "2022 (Débats sur le chanvre industriel mais maintien de la prohibition THC)",
+      "context": "Lois rigides visant la moralité publique."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal certain.",
+      "risks": "Prison pour toute possession ; contrôles fréquents sur les îles touristiques.",
+      "analysis": {
+        "social": "Stigmatisation sociale.",
+        "racial": "N/A",
+        "economic": "Focus sur le chanvre fibre en devenir."
+      }
+    },
+    "wikipediaSlug": "Cannabis_aux_Fidji"
+  },
+  "SB": {
+    "name": "Îles Salomon",
+    "flag": "🇸🇧",
+    "alias": "Solomon Islands",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1954",
+      "evolution": "2024",
+      "context": "Interdiction complète."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis_aux_Îles_Salomon"
+  },
+  "VU": {
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "alias": "Vanuatu",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1954",
+      "evolution": "2021 (Légalisation médicale pour l'exportation)",
+      "context": "Transition économique vers la production régulée."
+    },
+    "norml_expert": {
+      "summary": "Liberté médicale réelle via l'export ; récréatif toujours illégal.",
+      "risks": "Poursuites pour usage récréatif public.",
+      "analysis": {
+        "social": "Acceptation via le prisme industriel.",
+        "racial": "N/A",
+        "economic": "Nouvelle source de devises nationales."
+      }
+    },
+    "wikipediaSlug": "Cannabis_au_Vanuatu"
+  },
+  "AS": {
+    "name": "Samoa américaines",
+    "flag": "🇦🇸",
+    "alias": "American Samoa",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Territoire US appliquant des lois locales très strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire.",
+      "risks": "Prison pour toute possession.",
+      "analysis": {
+        "social": "Conservatisme.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United States"
+  },
+  "CK": {
+    "name": "Îles Cook",
+    "flag": "🇨🇰",
+    "alias": "Cook Islands",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2022 (Référendum favorable à la légalisation médicale)",
+      "context": "Vers un modèle de régulation thérapeutique."
+    },
+    "norml_expert": {
+      "summary": "Liberté croissante ; le médical est désormais la norme légale.",
+      "risks": "Flou sur le récréatif personnel.",
+      "analysis": {
+        "social": "Normalisation sociale.",
+        "racial": "N/A",
+        "economic": "Développement local."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the Cook Islands"
+  },
+  "GU": {
+    "name": "Guam",
+    "flag": "🇬🇺",
+    "alias": "Guam",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2019 (Légalisation totale de l'usage récréatif)",
+      "context": "Modèle américain le plus avancé du Pacifique."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale ; marché légal accessible aux adultes.",
+      "risks": "Restrictions fédérales persistantes.",
+      "analysis": {
+        "social": "Normalisation achevée.",
+        "racial": "N/A",
+        "economic": "Nouveaux revenus fiscaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Guam"
+  },
+  "NR": {
+    "name": "Nauru",
+    "flag": "🇳🇷",
+    "alias": "Nauru",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Zéro tolérance."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Rejet.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Nauru"
+  },
+  "KI": {
+    "name": "Kiribati",
+    "flag": "🇰🇮",
+    "alias": "Kiribati",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2023",
+      "context": "Loi stricte insulaire."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; prohibition radicale.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Kiribati"
+  },
+  "WS": {
+    "name": "Samoa",
+    "flag": "🇼🇸",
+    "alias": "Samoa",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Loi et coutumes strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal certain.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Conservatisme.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Samoa"
+  },
+  "TO": {
+    "name": "Tonga",
+    "flag": "🇹🇴",
+    "alias": "Tonga",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2023",
+      "context": "Interdiction complète."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire.",
+      "risks": "Prison pour toute possession.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "Gaspillage."
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Tonga"
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "flag": "🇹🇻",
+    "alias": "Tuvalu",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Zéro tolérance."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; prohibition totale.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Rejet.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Tuvalu"
+  },
+  "FM": {
+    "name": "Micronésie",
+    "flag": "🇫🇲",
+    "alias": "Micronesia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2023",
+      "context": "Loi fédérale stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger policier.",
+      "risks": "Emprisonnement pour possession.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis en Micronésie"
+  },
+  "MH": {
+    "name": "Marshall",
+    "flag": "🇲🇭",
+    "alias": "Marshall Islands",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Interdiction absolue."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Rejet.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis aux îles Marshall"
+  },
+  "NC": {
+    "name": "Nouvelle-Calédonie",
+    "flag": "🇳🇨",
+    "alias": "New Caledonia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (France)",
+      "evolution": "2024",
+      "context": "Collectivité d'outre-mer française : application de la loi nationale."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression française.",
+      "risks": "Amendes et sanctions pénales.",
+      "analysis": {
+        "social": "Décalage avec l'usage coutumier.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en France"
+  },
+  "NU": {
+    "name": "Niue",
+    "flag": "🇳🇺",
+    "alias": "Niue",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Interdiction complète."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Sanctions pénales.",
+      "analysis": {
+        "social": "Rejet.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis in Niue"
+  },
+  "NF": {
+    "name": "Île Norfolk",
+    "flag": "🇳🇫",
+    "alias": "Norfolk Island",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois australiennes strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Sanctions pénales.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Australia"
+  },
+  "MP": {
+    "name": "Îles Mariannes du Nord",
+    "flag": "🇲🇵",
+    "alias": "Northern Mariana Islands",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2018 (Légalisation totale de l'usage adulte)",
+      "context": "Pionnier de la légalisation dans les territoires US du Pacifique."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale ; marché régulé.",
+      "risks": "Restrictions fédérales.",
+      "analysis": {
+        "social": "Normalisation achevée.",
+        "racial": "N/A",
+        "economic": "Nouveaux revenus fiscaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the Northern Mariana Islands"
+  },
+  "PW": {
+    "name": "Palaos",
+    "flag": "🇵🇼",
+    "alias": "Palau",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Interdiction absolue."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Rejet.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Palau"
+  },
+  "PN": {
+    "name": "Pitcairn",
+    "flag": "🇵🇳",
+    "alias": "Pitcairn Islands",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois britanniques strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Sanctions pénales.",
+      "analysis": {
+        "social": "Small community control.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United Kingdom"
+  },
+  "TK": {
+    "name": "Tokelau",
+    "flag": "🇹🇰",
+    "alias": "Tokelau",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Zéro tolérance."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis in Tokelau"
+  },
+  "WF": {
+    "name": "Wallis-et-Futuna",
+    "flag": "🇼🇫",
+    "alias": "Wallis and Futuna",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (France)",
+      "evolution": "2024",
+      "context": "Territoire français : prohibition absolue."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Sanctions pénales françaises.",
+      "analysis": {
+        "social": "Conservatisme religieux et coutumier.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en France"
+  }
+}

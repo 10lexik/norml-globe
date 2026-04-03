@@ -1,0 +1,181 @@
+{
+  "ui": {
+    "header": {
+      "title": "Cannabis, l'état des lieux dans le monde",
+      "subtitle": "NORML France"
+    },
+    "globe": {
+      "loader": "Initialisation du globe…"
+    },
+    "legend": {
+      "stats": {
+        "legal": "légaux",
+        "tolerated": "tolérés",
+        "prohibited": "interdits"
+      },
+      "items": {
+        "legal": "Cannabis légal (THC)",
+        "tolerated": "Toléré / Décriminalisé",
+        "prohibited": "Interdit / Pas de données"
+      },
+      "hint": "Touchez un pays pour le détail"
+    },
+    "modal": {
+      "close": "Fermer",
+      "risk_label": "RISQUE :",
+      "medical_badge": "Médical / CBD",
+      "no_data": {
+        "title": "Aucune donnée historique disponible",
+        "text": "Ce pays est affiché avec le statut par défaut (interdiction). Si vous disposez d'informations vérifiées, vous pouvez contribuer sur Wikipedia.",
+        "link": "Contribuer sur Wikipedia →"
+      },
+      "timeline": {
+        "prohibition": "Prohibition",
+        "legalization": "Légalisation",
+        "status": "Statut",
+        "today": "Aujourd'hui"
+      },
+      "sections": {
+        "risks": "Analyse des risques (NORML Expert)",
+        "usage": "Usage & Possession",
+        "trafficking": "Trafic & Vente",
+        "medical": "Médical & CBD",
+        "highlights": "Faits marquants",
+        "expert": "Analyse NORML Expert",
+        "analysis": "Impact & Société",
+        "wikipedia": "Contexte Wikipedia"
+      },
+      "history": {
+        "prohibition": "Interdiction",
+        "evolution": "Évolution",
+        "context": "Contexte actuel"
+      },
+      "analysis": {
+        "social": "Analyse Sociale",
+        "racial": "Analyse Raciale",
+        "economic": "Inertie Économique"
+      },
+      "cta": {
+        "title": "Agir avec NORML France",
+        "text": "Rejoignez le mouvement pour une régulation juste et efficace du cannabis en France.",
+        "support": "Soutenir le plaidoyer",
+        "join": "Adhérer"
+      },
+      "wiki": {
+        "loading": "Chargement…",
+        "full_article": "Lire l'article complet sur Wikipedia →",
+        "view_wiki": "Voir sur Wikipedia →"
+      },
+      "subtitles": {
+        "legal_cbd_legal": "Cannabis légal — CBD légal",
+        "legal_cbd_tolerated": "Cannabis légal — CBD toléré",
+        "legal_cbd_prohibited": "Cannabis légal — CBD interdit",
+        "legal_cbd_undefined": "Cannabis légal",
+        "tolerated_cbd_legal": "Usage toléré / décriminalisé — CBD légal",
+        "tolerated_cbd_tolerated": "Usage toléré / décriminalisé — CBD toléré",
+        "tolerated_cbd_prohibited": "Usage toléré / décriminalisé — CBD interdit",
+        "tolerated_cbd_undefined": "Usage toléré / décriminalisé",
+        "prohibited_cbd_legal": "Usage et possession interdits — CBD légal",
+        "prohibited_cbd_tolerated": "Usage et possession interdits — CBD toléré",
+        "prohibited_cbd_prohibited": "Usage et possession interdits — CBD interdit",
+        "prohibited_cbd_undefined": "Usage et possession interdits"
+      }
+    },
+    "config": {
+      "wiki": {
+        "baseUrl": "https://fr.wikipedia.org",
+        "restApiUrl": "https://fr.wikipedia.org/api/rest_v1",
+        "searchTerm": "Cannabis",
+        "filterKeywords": [
+          "cannabis",
+          "chanvre",
+          "drogue"
+        ],
+        "fallbackTitle": "Législation_sur_le_cannabis"
+      }
+    },
+    "palette": {
+      "brand_green": "#2E8A42",
+      "brand_green_glow": "#2E8A4280",
+      "brand_green_subtle": "#2E8A4233",
+      "brand_green_dim": "#2E8A421F",
+      "accent_lime": "#4ADE80",
+      "accent_lime_shadow": "#4ADE804D",
+      "accent_emerald": "#3EB356",
+      "ui_dark": "#050D0A",
+      "ui_dark_deep": "#0D1A17",
+      "ui_dark_trans": "#000805A6",
+      "bg_sheet": "#0A1F14",
+      "text_main": "#E8F5E9",
+      "text_secondary": "#8AAB96",
+      "text_muted": "#4A6A58",
+      "text_dim": "#5A8A6E",
+      "neutral_white": "#FFFFFF",
+      "neutral_white_10": "#FFFFFF0F",
+      "neutral_white_20": "#FFFFFF26",
+      "neutral_white_30": "#FFFFFF4D",
+      "neutral_white_soft": "#FFFFFF1F",
+      "neutral_white_ultra_soft": "#FFFFFF0D",
+      "neutral_black": "#000000",
+      "shadow_light": "#00000066",
+      "shadow_heavy": "#00000099",
+      "status_tolerated": "#6fb963",
+      "risk_low": "#7AC98A",
+      "risk_medium": "#E0A300",
+      "risk_high": "#F87171",
+      "risk_high_subtle": "#F871710D",
+      "risk_high_trans": "#F8717133",
+      "cbd_soft_green": "#9DCE9D",
+      "cbd_bg": "#78C88C1F",
+      "ocean_light": "#D6E9D5"
+    },
+    "status_colors": {
+      "legal": "palette.brand_green",
+      "tolerated": "palette.status_tolerated",
+      "prohibited": "palette.ui_dark_deep",
+      "nodata": "palette.ui_dark_deep"
+    },
+    "theme_colors": {
+      "bg_main": "palette.ui_dark",
+      "bg_sheet": "palette.bg_sheet",
+      "bg_backdrop": "palette.ui_dark_trans",
+      "bg_card": "palette.neutral_white_ultra_soft",
+      "text_primary": "palette.text_main",
+      "text_secondary": "palette.text_secondary",
+      "text_muted": "palette.text_muted",
+      "text_accent": "palette.accent_lime",
+      "text_dim": "palette.text_dim",
+      "text_white": "palette.neutral_white",
+      "border_dim": "palette.brand_green_subtle",
+      "border_soft": "palette.neutral_white_10",
+      "ui_close_bg": "palette.neutral_white_10",
+      "ui_close_hover": "palette.neutral_white_soft",
+      "risk_low": "palette.risk_low",
+      "risk_medium": "palette.risk_medium",
+      "risk_high": "palette.risk_high",
+      "risk_deadly": "palette.neutral_black",
+      "cbd_accent": "palette.cbd_soft_green",
+      "cbd_bg": "palette.cbd_bg",
+      "wiki_accent": "palette.accent_lime",
+      "cta_accent": "palette.brand_green",
+      "cta_hover": "palette.accent_emerald",
+      "shadow_main": "palette.shadow_light",
+      "shadow_heavy": "palette.shadow_heavy",
+      "country_border": "palette.brand_green_glow",
+      "legal_glow": "palette.brand_green_glow",
+      "legal_glow_subtle": "palette.brand_green_dim",
+      "text_accent_shadow": "palette.accent_lime_shadow",
+      "border_highlight": "palette.neutral_white_20",
+      "border_ultra_soft": "palette.neutral_white_ultra_soft",
+      "penalty_heavy_bg": "palette.risk_high_subtle",
+      "penalty_heavy_border": "palette.risk_high_trans",
+      "ocean": "palette.ocean_light"
+    }
+  },
+  "status": {
+    "legal": "Légal",
+    "tolerated": "Toléré / Décriminalisé",
+    "prohibited": "Interdit",
+    "nodata": "Pas de données"
+  }
+}

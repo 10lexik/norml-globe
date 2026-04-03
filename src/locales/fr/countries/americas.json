@@ -1,0 +1,1244 @@
+{
+  "CA": {
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "alias": "Canada",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1923 (Loi ajoutant le cannabis aux stupéfiants sans débat)",
+      "evolution": "2018 (Loi sur le cannabis C-45 : légalisation totale)",
+      "context": "Modèle global de réussite : régulation complète de la graine à la vente."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale de l'usager adulte ; normalisation sociétale aboutie.",
+      "risks": "Règles strictes sur la conduite (détection THC) ; limites de possession publique (30g).",
+      "analysis": {
+        "social": "Réduction drastique des interactions usagers/police ; fin du tribunal pour usage.",
+        "racial": "Programmes d'équité sociale visant à compenser les torts de la prohibition passée.",
+        "economic": "Industrie valant > 10 Mds $ CAD ; des dizaines de milliers d'emplois créés."
+      }
+    },
+    "wikipediaSlug": "Légalisation du cannabis au Canada"
+  },
+  "MX": {
+    "name": "Mexique",
+    "flag": "🇲🇽",
+    "alias": "Mexico",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1920 (Décret présidentiel interdisant la culture)",
+      "evolution": "2021 (Déclaration d'inconstitutionnalité de la prohibition par la Cour Suprême)",
+      "context": "Transition juridique historique : le droit au 'libre développement de la personnalité' prime sur l'interdiction."
+    },
+    "norml_expert": {
+      "summary": "Liberté constitutionnelle reconnue ; régulation commerciale encore floue.",
+      "risks": "Nécessité d'obtenir un permis (Amparo/COFEPRIS) pour cultiver sans risque policier.",
+      "analysis": {
+        "social": "Normalisation de l'auto-culture ; fin de la stigmatisation judiciaire de l'usager.",
+        "racial": "Efforts pour inclure les communautés indigènes dans la future industrie légale.",
+        "economic": "Potentiel de plus gros marché légal mondial en volume de production."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis au Mexique"
+  },
+  "JM": {
+    "name": "Jamaïque",
+    "flag": "🇯🇲",
+    "alias": "Jamaica",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1913 (The Ganja Law introduite par l'administration coloniale)",
+      "evolution": "2015 (Dangerous Drugs Amendment : décriminalisation et protection religieuse)",
+      "context": "Reconnaissance du cannabis comme sacrement rastafari et pilier culturel."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée ; culture domestique (5 plants) et usage médical légal.",
+      "risks": "Amende administrative de 500 JMD (~3€) pour possession publique <56g.",
+      "analysis": {
+        "social": "Intégration du cannabis dans le patrimoine national ; protection des petits fermiers.",
+        "racial": "Réparation symbolique forte envers la communauté Rastafari persécutée.",
+        "economic": "Développement du tourisme thérapeutique et des licences d'exportation."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Jamaïque"
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "alias": "Costa Rica",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1923 (Loi originelle)",
+      "evolution": "2022 (Légalisation du cannabis médical et du chanvre industriel)",
+      "context": "Usage récréatif décriminalisé de fait (considéré comme un enjeu de santé publique)."
+    },
+    "norml_expert": {
+      "summary": "Grande tolérance ; l'usager n'est pas criminalisé pour sa consommation personnelle.",
+      "risks": "Confiscation possible en public ; absence de points de vente récréatifs légaux.",
+      "analysis": {
+        "social": "Image de pays progressiste 'Pura Vida' ; forte acceptation sociale.",
+        "racial": "Faible impact de la prohibition sur les disparités raciales locales.",
+        "economic": "Nouveau marché médical en pleine structuration pour l'export."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Costa Rica"
+  },
+  "PA": {
+    "name": "Panama",
+    "flag": "🇵🇦",
+    "alias": "Panama",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1920 (Loi répressive)",
+      "evolution": "2021 (Loi 242 : premier cadre pour le cannabis médical en Amérique Centrale)",
+      "context": "Usage médical autorisé mais répression récréative maintenue."
+    },
+    "norml_expert": {
+      "summary": "Liberté limitée aux patients ; usage récréatif criminalisé.",
+      "risks": "Arrestations pour possession simple hors cadre médical.",
+      "analysis": {
+        "social": "Début de déstigmatisation grâce au débat médical national.",
+        "racial": "Ciblage policier persistant dans les quartiers urbains défavorisés.",
+        "economic": "Ambition de devenir un hub logistique pour le cannabis médical régional."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Panama"
+  },
+  "CU": {
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "alias": "Cuba",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Politique de tolérance zéro absolue du régime."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire extrême.",
+      "risks": "Longues peines de prison pour possession simple ; peine capitale possible pour trafic.",
+      "analysis": {
+        "social": "Stigmatisation d'État.",
+        "racial": "Contrôle social rigide.",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Cuba"
+  },
+  "DO": {
+    "name": "République Dominicaine",
+    "flag": "🇩🇴",
+    "alias": "Dominican Republic",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2023",
+      "context": "Prohibition stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal très élevé.",
+      "risks": "Prison pour toute possession ; corruption policière.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "Ciblage.",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis en République Dominicaine"
+  },
+  "HT": {
+    "name": "Haïti",
+    "flag": "🇭🇹",
+    "alias": "Haiti",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Instabilité aggravant la prohibition formelle."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger physique et judiciaire.",
+      "risks": "Prison et arbitraire.",
+      "analysis": {
+        "social": "Usage traditionnel existant.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis en Haïti"
+  },
+  "SV": {
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "alias": "El Salvador",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930 (Loi originelle)",
+      "evolution": "2022-2024 (Répression de masse sous l'état d'exception de Bukele)",
+      "context": "Climat d'ultra-répression : toute possession peut mener à une incarcération de masse."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger extrême pour l'usager.",
+      "risks": "Prison sans jugement possible dans le cadre de la lutte contre les gangs.",
+      "analysis": {
+        "social": "Stigmatisation totale ; assimilation de l'usager aux réseaux criminels Mara.",
+        "racial": "Contrôle social d'une violence inouïe sur la jeunesse.",
+        "economic": "Zéro opportunité légale ; focus unique sur la sécurité carcérale."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Salvador"
+  },
+  "HN": {
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "alias": "Honduras",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi sur les stupéfiants)",
+      "evolution": "2023 (Maintien de l'interdiction stricte malgré les débats régionaux)",
+      "context": "Prohibition absolue et sanctions pénales sévères."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque judiciaire réel.",
+      "risks": "Longues peines de prison même pour usage personnel.",
+      "analysis": {
+        "social": "Conservation de valeurs prohibitionnistes fortes.",
+        "racial": "Instrumentalisation de la lutte anti-drogue pour le contrôle politique.",
+        "economic": "Drainage des ressources vers la répression plutôt que vers le soin."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Honduras"
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "alias": "Nicaragua",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Loi originelle)",
+      "evolution": "2023 (Fermeture politique totale à toute réforme)",
+      "context": "L'un des systèmes les plus fermés d'Amérique Centrale concernant les drogues."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; surveillance étatique forte.",
+      "risks": "Prison systématique pour possession ; absence de droits pour l'usager.",
+      "analysis": {
+        "social": "Usage clandestin et stigmatisé.",
+        "racial": "Répression utilisée comme outil de contrôle de la dissidence.",
+        "economic": "Refus dogmatique du modèle économique du cannabis."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Nicaragua"
+  },
+  "GT": {
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "alias": "Guatemala",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930s (Uniform Narcotic Drug Act)",
+      "evolution": "2023 (Échec des propositions de légalisation médicale au Congrès)",
+      "context": "Conservatisme social fort malgré des tentatives de réformes législatives."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire active.",
+      "risks": "Incarcération pour possession ; risque pénal aggravé en zone urbaine.",
+      "analysis": {
+        "social": "Conflit entre jeunesse urbaine libérale et l'élite conservatrice.",
+        "racial": "Impact disproportionné de la prohibition sur les populations indigènes Mayas.",
+        "economic": "Pertes fiscales sèches suite à l'absence de régulation du chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Guatemala"
+  },
+  "BZ": {
+    "name": "Belize",
+    "flag": "🇧🇿",
+    "alias": "Belize",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1928 (Loi coloniale)",
+      "evolution": "2017 (Décriminalisation de 10g pour usage privé)",
+      "context": "Approche pragmatique visant à réduire la pression sur le système judiciaire."
+    },
+    "norml_expert": {
+      "summary": "Usage privé toléré ; commerce récréatif encore illégal en public.",
+      "risks": "Amendes pour usage public ; flou juridique sur la provenance légale.",
+      "analysis": {
+        "social": "Acceptation culturelle forte ; pacification des relations police/usagers.",
+        "racial": "Réduction de l'incarcération des jeunes issus des minorités.",
+        "economic": "Économies sur la justice pénale ; projet de marché régulé en suspens."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Belize"
+  },
+  "BS": {
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "alias": "Bahamas",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024 (Légalisation médicale et décriminalisation de 30g effectuée)",
+      "context": "Transition réussie vers un modèle de régulation médical."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle croissante ; cadre médical structuré.",
+      "risks": "Sanctions pour possession au-delà de 30g ; trafic pénal.",
+      "analysis": {
+        "social": "Large acceptation sociale.",
+        "racial": "Justice sociale en marche.",
+        "economic": "Secteur touristique en plein essor."
+      }
+    },
+    "wikipediaSlug": "Cannabis aux Bahamas"
+  },
+  "TT": {
+    "name": "Trinité-et-Tobago",
+    "flag": "🇹🇹",
+    "alias": "Trinidad and Tobago",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2019 (Décriminalisation massive de la possession jusqu'à 30g et culture de 4 plants)",
+      "context": "Modèle progressiste caraïbe."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle élevée ; possession et culture privées autorisées.",
+      "risks": "Risque pour la consommation publique ; régulation de la vente en cours.",
+      "analysis": {
+        "social": "Normalisation sociale achevée.",
+        "racial": "Réduction des disparités judiciaires.",
+        "economic": "Potentiel industriel chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis à Trinité-et-Tobago"
+  },
+  "AR": {
+    "name": "Argentine",
+    "flag": "🇦🇷",
+    "alias": "Argentina",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1924 (Loi répressive originelle)",
+      "evolution": "2021 (Décret 883/2020 : création du REPROCANN pour l'auto-culture médicale)",
+      "context": "Modèle progressiste unique permettant l'auto-culture pour le 'bien-être' via un registre d'État."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée via inscription ; usage récréatif privé décriminalisé.",
+      "risks": "Risque pénal en cas de transport sans certificat REPROCANN ; confiscation en public.",
+      "analysis": {
+        "social": "Forte normalisation sociale et associative (ONG Mamá Cultiva).",
+        "racial": "Réduction notable des arrestations dans les zones urbaines.",
+        "economic": "Développement d'une filière médicale et de recherche nationale."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Argentine"
+  },
+  "BO": {
+    "name": "Bolivie",
+    "flag": "🇧🇴",
+    "alias": "Bolivia",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Le cannabis reste strictement proscrit malgré la culture légale de la Coca."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; décalage législatif avec la feuille de Coca.",
+      "risks": "Lourdes peines de prison ; répression zélée.",
+      "analysis": {
+        "social": "Usage traditionnel marginalisé face à la Coca.",
+        "racial": "N/A",
+        "economic": "Gaspillage industriel."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Bolivie"
+  },
+  "BR": {
+    "name": "Brésil",
+    "flag": "🇧🇷",
+    "alias": "Brazil",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1921 (Pango)",
+      "evolution": "2024 (La Cour Suprême - STF - définit le seuil de 40g ou 6 plants comme usage personnel non criminel)",
+      "context": "Basculement majeur : la distinction entre usager et trafiquant n'est plus à la discrétion de la police."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle en hausse ; protection juridique forte de l'usager personnel.",
+      "risks": "Marché noir encore puissant ; flou sur l'achat initial légal.",
+      "analysis": {
+        "social": "Normalisation amorcée ; le cannabis médical est le moteur du changement industriel.",
+        "racial": "La réforme vise spécifiquement à réduire l'incarcération de masse des populations noires en favelas.",
+        "economic": "Engagement des banques et de l'État pour financer l'agro-filière chanvre."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Brésil"
+  },
+  "CL": {
+    "name": "Chili",
+    "flag": "🇨🇱",
+    "alias": "Chile",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1968 (Loi sur les stupéfiants)",
+      "evolution": "2015 (Légalisation médicale et dépénalisation de l'auto-culture via la jurisprudence)",
+      "context": "Le Chili possède le taux de consommation par habitant le plus élevé d'Amérique du Sud."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée pour l'auto-culture privée ; tolérance associative forte.",
+      "risks": "Confiscation possible en public ; amendes administratives.",
+      "analysis": {
+        "social": "Normalisation sociale quasi totale ; rôle pionnier de la Fundación Daya.",
+        "racial": "Usage des lois pour réprimer les populations indigènes Mapuches à des fins politiques.",
+        "economic": "Marché noir encore puissant malgré l'essor du médical artisanal."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Chili"
+  },
+  "CO": {
+    "name": "Colombie",
+    "flag": "🇨🇴",
+    "alias": "Colombia",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1986 (Loi 30 : Statut national des stupéfiants)",
+      "evolution": "1994 (Arrêt C-221 : dépénalisation de la 'dose personnelle') ; 2024 (Légalisation commerciale en débat avancé)",
+      "context": "Pionnier de la dépénalisation : droit de posséder 20g et de cultiver 20 plants."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle élevée pour l'usager ; l'un des cadres les plus libéraux au monde.",
+      "risks": "Insécurité juridique pour la vente de rue (microtrafic) ; amendes pour usage public.",
+      "analysis": {
+        "social": "Transition culturelle : de l'image du narcotrafic vers celle de l'industrie médicinale.",
+        "racial": "Focus sur le développement alternatif pour les paysans (campesinos) et populations noires.",
+        "economic": "Ambition mondiale pour l'export médical (climat et coûts de production imbattables)."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en Colombie"
+  },
+  "EC": {
+    "name": "Équateur",
+    "flag": "🇪🇨",
+    "alias": "Ecuador",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (Loi sur les stupéfiants)",
+      "evolution": "2013 (Décriminalisation de 10g) ; 2019 (Légalisation du chanvre et cannabis médical <1% THC)",
+      "context": "Usage personnel toléré à petite dose, mais cadre commercial strictement médical."
+    },
+    "norml_expert": {
+      "summary": "Tolérance pour l'usage personnel (10g) ; risque nul pour le CBD médical.",
+      "risks": "Prison possible au-delà de 10g (considéré comme trafic) ; surveillance policière.",
+      "analysis": {
+        "social": "Début de normalisation via les boutiques de CBD en ville.",
+        "racial": "Réduction des tensions policières mineures dans les zones côtières.",
+        "economic": "Développement prometteur d'une industrie de chanvre industriel."
+      }
+    },
+    "wikipediaSlug": "Cannabis en Équateur"
+  },
+  "GY": {
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "alias": "Guyana",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Prohibition maintenue."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; risque pénal.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis au Guyana"
+  },
+  "PY": {
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "alias": "Paraguay",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2017 (Dépénalisation de la possession de 10g et légalisation médicale)",
+      "context": "Premier producteur sud-américain, en phase de régularisation industrielle."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle modérée ; leader industriel médical export.",
+      "risks": "Corruption policière possible pour possession minime ; danger lié aux zones de culture illégale.",
+      "analysis": {
+        "social": "Acceptation pragmatique.",
+        "racial": "N/A",
+        "economic": "Moteur d'exportation massif de CBD vers l'Europe et les USA."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Paraguay"
+  },
+  "PE": {
+    "name": "Pérou",
+    "flag": "🇵🇪",
+    "alias": "Peru",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1921 (Loi originelle)",
+      "evolution": "2003 (Décriminalisation de 8g) ; 2017 (Légalisation du cannabis médical)",
+      "context": "Acceptation institutionnelle pour le médical ; tolérance pour l'usage personnel."
+    },
+    "norml_expert": {
+      "summary": "Usage personnel sans risque pénal (8g) ; accès médical structuré.",
+      "risks": "Saisie systématique et amandes possibles en cas d'usage public ostentatoire.",
+      "analysis": {
+        "social": "Acceptation croissante influencée par les voisins du Sud (Chili/Argentine).",
+        "racial": "Faible impact racial ; tolérance culturelle en hausse.",
+        "economic": "Développement de l'exportation médicale de haute qualité."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Pérou"
+  },
+  "SR": {
+    "name": "Suriname",
+    "flag": "🇸🇷",
+    "alias": "Suriname",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2023",
+      "context": "Prohibition stricte."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "Tabou.",
+        "racial": "N/A",
+        "economic": "N/A"
+      }
+    },
+    "wikipediaSlug": "Cannabis au Suriname"
+  },
+  "UY": {
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "alias": "Uruguay",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1934 (Loi restrictive sous pression internationale)",
+      "evolution": "2013 (Loi 19.172 : Premier pays au monde à légaliser intégralement le marché)",
+      "context": "Modèle étatique unique : la vente, la production et l'usage sont régulés par l'État (IRCCA)."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale pour les résidents (pharmacies, clubs ou auto-culture) ; accès sécurisé.",
+      "risks": "Vente interdite aux touristes (risque d'amande) ; inscription obligatoire sur les registres.",
+      "analysis": {
+        "social": "Pacification sociale et disparition presque totale du marché noir local.",
+        "racial": "Légalisation égalitaire ayant réduit les violences liées au trafic en zone urbaine.",
+        "economic": "Contrôle des prix par l'État (très bas) pour concurrencer le marché noir."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en Uruguay"
+  },
+  "VE": {
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "alias": "Venezuela",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1970 (Loi sur les stupéfiants)",
+      "evolution": "2023 (Répression maintenue malgré la crise humanitaire)",
+      "context": "Lois extrêmement sévères héritées d'une période de lutte anti-drogue dure."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Peines de prison de 2 ans pour usage personnel ; corruption endémique risquant d'aggraver les cas.",
+      "analysis": {
+        "social": "Stigmatisation dans un climat de surveillance généralisée.",
+        "racial": "Contrôle social via la répression des drogues dans les quartiers pauvres.",
+        "economic": "Refus dogmatique de toute régulation malgré un besoin de revenus fiscaux."
+      }
+    },
+    "wikipediaSlug": "Cannabis au Venezuela"
+  },
+  "GF": {
+    "name": "Guyane Française",
+    "flag": "🇬🇫",
+    "alias": "French Guiana",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (Loi Mazeaud - Code pénal français)",
+      "evolution": "2020 (Introduction de l'AFD comme en France métropolitaine)",
+      "context": "Territoire français : application stricte de la prohibition nationale malgré le contexte régional."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle nulle ; application de la répression française.",
+      "risks": "Amende forfaitaire délictuelle (200€) ; contrôles routiers fréquents.",
+      "analysis": {
+        "social": "Décalage total entre les lois de Paris et la réalité socioculturelle amazonienne.",
+        "racial": "Forte stigmatisation des populations locales lors des contrôles routiers.",
+        "economic": "Coût élevé de la répression dans une zone de transit majeure."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en France"
+  },
+  "AG": {
+    "name": "Antigua-et-Barbuda",
+    "flag": "🇦🇬",
+    "alias": "Antigua and Barbuda",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2018 (Décriminalisation de 15g et culture de 4 plants ; protection des droits Rastafaris)",
+      "context": "Modèle progressiste caribéen reconnaissant l'usage sacramentel."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle élevée ; cadre protecteur pour les minorités religieuses.",
+      "risks": "Usage public interdit ; vente récréative non encore régulée en dispensaire.",
+      "analysis": {
+        "social": "Normalisation sociale exemplaire ; inclusion culturelle.",
+        "racial": "Réparation historique envers la communauté Rastafari.",
+        "economic": "Développement du secteur médical export."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Antigua and Barbuda"
+  },
+  "AI": {
+    "name": "Anguilla",
+    "flag": "🇦🇮",
+    "alias": "Anguilla",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois strictes héritées du système britannique."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire maintenue.",
+      "risks": "Prison pour possession simple.",
+      "analysis": {
+        "social": "Tabou social fort.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United Kingdom"
+  },
+  "AW": {
+    "name": "Aruba",
+    "flag": "🇦🇼",
+    "alias": "Aruba",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Membre du Royaume des Pays-Bas mais avec ses propres lois strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle pour le THC ; CBD toléré.",
+      "risks": "Arrestations pour possession ; contrôles douaniers stricts.",
+      "analysis": {
+        "social": "Stigmatisation malgré l'influence néerlandaise.",
+        "racial": "N/A",
+        "economic": "Hésitation à franchir le pas de la légalisation touristique."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Aruba"
+  },
+  "BB": {
+    "name": "Barbade",
+    "flag": "🇧🇧",
+    "alias": "Barbados",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2020 (Décriminalisation de 14g ; accès médical légal)",
+      "context": "Transition vers un modèle de régulation médical et décriminalisation."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle modérée ; protection de l'usager personnel.",
+      "risks": "Amendes pour usage public ; trafic pénal.",
+      "analysis": {
+        "social": "Relâchement des tensions police/usagers.",
+        "racial": "Justice sociale pour les petits usagers.",
+        "economic": "Nouveau marché médical en pleine structuration."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Barbados"
+  },
+  "BM": {
+    "name": "Bermudes",
+    "flag": "🇧🇲",
+    "alias": "Bermuda",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2017 (Décriminalisation de 7g)",
+      "context": "Débat constant avec le Royaume-Uni sur la légalisation totale."
+    },
+    "norml_expert": {
+      "summary": "Liberté modérée ; l'usager n'est plus prioritairement criminalisé.",
+      "risks": "Saisies possibles ; incertitude législative sur la vente.",
+      "analysis": {
+        "social": "Acceptation sociale élevée.",
+        "racial": "Réduction des disparités judiciaires.",
+        "economic": "Potentiel touristique bloqué par la diplomatie."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Bermuda"
+  },
+  "BQ": {
+    "name": "Bonaire",
+    "flag": "🇧🇶",
+    "alias": "Bonaire",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Territoire néerlandais appliquant des lois plus strictes que la métropole."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression directe.",
+      "risks": "Prison et amendes.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the Netherlands"
+  },
+  "KY": {
+    "name": "Îles Caïmans",
+    "flag": "🇰🇾",
+    "alias": "Cayman Islands",
+    "status": "tolerated",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2016 (Légalisation de l'huile de cannabis à des fins médicales)",
+      "context": "Cadre médical pionnier dans les territoires britanniques d'outre-mer."
+    },
+    "norml_expert": {
+      "summary": "Liberté médicale réelle ; récréatif toujours illégal mais souvent sanctionné par amende.",
+      "risks": "Poursuites pour possession sans ordonnance.",
+      "analysis": {
+        "social": "Normalisation via le prisme médical.",
+        "racial": "N/A",
+        "economic": "Marché médical d'importation florissant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the Cayman Islands"
+  },
+  "CW": {
+    "name": "Curaçao",
+    "flag": "🇨🇼",
+    "alias": "Curaçao",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "tolerated",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024 (Projet de loi sur le cannabis médical en cours d'examen)",
+      "context": "En attente d'une réforme législative majeure."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; transition vers le médical attendue.",
+      "risks": "Prison pour possession ; surveillance portuaire.",
+      "analysis": {
+        "social": "Débat public actif.",
+        "racial": "N/A",
+        "economic": "Ambition de devenir un centre médical régional."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Curaçao"
+  },
+  "DM": {
+    "name": "Dominique",
+    "flag": "🇩🇲",
+    "alias": "Dominica",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2020 (Décriminalisation de 28g pour usage personnel)",
+      "context": "Alignement sur les réformes progressistes des Caraïbes."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle croissante ; fin de la criminalisation pour les petites quantités.",
+      "risks": "Usage public interdit ; régulation commerciale en attente.",
+      "analysis": {
+        "social": "Pacification des relations police/citoyens.",
+        "racial": "N/A",
+        "economic": "Potentiel agricole inexploité."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Dominica"
+  },
+  "FK": {
+    "name": "Îles Malouines",
+    "flag": "🇫🇰",
+    "alias": "Falkland Islands",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois britanniques strictes appliquées sur le territoire."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire.",
+      "risks": "Prison et amendes pour toute possession.",
+      "analysis": {
+        "social": "Conservatisme social fort.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United Kingdom"
+  },
+  "GL": {
+    "name": "Groenland",
+    "flag": "🇬🇱",
+    "alias": "Greenland",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Application de la loi danoise sur les stupéfiants avec des contrôles stricts."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; danger judiciaire pour l'usager.",
+      "risks": "Saisies et amendes lourdes ; isolement géographique facilitant les contrôles.",
+      "analysis": {
+        "social": "Usage clandestin et stigmatisé par les autorités de santé.",
+        "racial": "N/A",
+        "economic": "Pertes budgétaires liées à la répression."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Denmark"
+  },
+  "GD": {
+    "name": "Grenade",
+    "flag": "🇬🇩",
+    "alias": "Grenada",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2020 (Décriminalisation de 15g et culture de 5 plants)",
+      "context": "Acceptation de l'usage personnel et spirituel au niveau législatif."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle en hausse ; cadre tolérant pour le privé.",
+      "risks": "Interdiction de vente récréative ; usage public sanctionné.",
+      "analysis": {
+        "social": "Normalisation sociale progressive.",
+        "racial": "Inclusion des droits religieux.",
+        "economic": "Vers un marché médical régulé."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Grenada"
+  },
+  "GP": {
+    "name": "Guadeloupe",
+    "flag": "🇬🇵",
+    "alias": "Guadeloupe",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (Loi Mazeaud - France)",
+      "evolution": "2020 (Introduction de l'Amende Forfaitaire Délictuelle)",
+      "context": "Application de la loi française : prohibition stricte malgré l'usage culturel."
+    },
+    "norml_expert": {
+      "summary": "Liberté réelle nulle ; application de la répression nationale.",
+      "risks": "AFD (200€) pour possession ; contrôles routiers fréquents.",
+      "analysis": {
+        "social": "Fort décalage entre loi d'État et pratiques culturelles.",
+        "racial": "Stigmatisation des jeunes usagers.",
+        "economic": "Exportation de la valeur vers les circuits illégaux."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en France"
+  },
+  "MQ": {
+    "name": "Martinique",
+    "flag": "🇲🇶",
+    "alias": "Martinique",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (Loi Mazeaud - France)",
+      "evolution": "2020 (Introduction de l'Amende Forfaitaire Délictuelle)",
+      "context": "Territoire français : prohibition maintenue par Paris."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; cadre répressif français.",
+      "risks": "Amendes et casier judiciaire pour THC ; CBD en vente libre.",
+      "analysis": {
+        "social": "Usage traditionnel répandu mais illégal.",
+        "racial": "Contrôle social via la lutte anti-drogue.",
+        "economic": "Pression sur l'économie locale."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en France"
+  },
+  "MS": {
+    "name": "Montserrat",
+    "flag": "🇲🇸",
+    "alias": "Montserrat",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois britanniques strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression judiciaire.",
+      "risks": "Prison pour possession.",
+      "analysis": {
+        "social": "Conservatisme.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United Kingdom"
+  },
+  "PR": {
+    "name": "Porto Rico",
+    "flag": "🇵🇷",
+    "alias": "Puerto Rico",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1934 (Uniform State Narcotic Drug Act)",
+      "evolution": "2015 (Légalisation médicale par ordre exécutif) ; 2024 (Décriminalisation de facto)",
+      "context": "Modèle américain en transition ; marché médical mature."
+    },
+    "norml_expert": {
+      "summary": "Liberté élevée pour les patients ; tolérance croissante pour le récréatif.",
+      "risks": "Arrestations possibles pour possession publique sans licence ; sanctions fédérales.",
+      "analysis": {
+        "social": "Forte acceptation sociale et médicale.",
+        "racial": "Efforts pour réduire les disparités historiques.",
+        "economic": "Industrie multimillionnaire créatrice d'emplois."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Puerto Rico"
+  },
+  "BL": {
+    "name": "Saint-Barthélemy",
+    "flag": "🇧🇱",
+    "alias": "Saint Barthélemy",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (France)",
+      "evolution": "2024",
+      "context": "Collectivité d'outre-mer française : application de la loi nationale."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; répression française.",
+      "risks": "Amendes et sanctions pénales.",
+      "analysis": {
+        "social": "Conservatisme de façade.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en France"
+  },
+  "KN": {
+    "name": "Saint-Kitts-et-Nevis",
+    "flag": "🇰🇳",
+    "alias": "Saint Kitts and Nevis",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2019 (Légalisation médicale et décriminalisation de la possession)",
+      "context": "Réforme majeure suite à une décision de la Haute Cour."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle élevée ; cadre protecteur pour l'usager personnel.",
+      "risks": "Règles strictes sur la culture commerciale.",
+      "analysis": {
+        "social": "Normalisation culturelle.",
+        "racial": "Justice sociale.",
+        "economic": "Développement industriel médical."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Saint Kitts and Nevis"
+  },
+  "LC": {
+    "name": "Sainte-Lucie",
+    "flag": "🇱🇨",
+    "alias": "Saint Lucia",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2021 (Décriminalisation de 30g et culture de 4 plants)",
+      "context": "Modernisation de la législation pour réduire la pression carcérale."
+    },
+    "norml_expert": {
+      "summary": "Liberté modérée ; l'usager privé est protégé.",
+      "risks": "Possession publique limitée ; vente récréative non régulée.",
+      "analysis": {
+        "social": "Acceptation sociale croissante.",
+        "racial": "Réduction des arrestations injustes.",
+        "economic": "Potentiel de marché local régulé."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Saint Lucia"
+  },
+  "MF": {
+    "name": "Saint-Martin",
+    "flag": "🇲🇫",
+    "alias": "Saint Martin",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (France)",
+      "evolution": "2024",
+      "context": "Partie française de l'île : application stricte de la loi française."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; opposition avec la partie néerlandaise.",
+      "risks": "Amendes et contrôles renforcés.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en France"
+  },
+  "PM": {
+    "name": "Saint-Pierre-et-Miquelon",
+    "flag": "🇵🇲",
+    "alias": "Saint Pierre and Miquelon",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1970 (France)",
+      "evolution": "2024",
+      "context": "Territoire français : prohibition absolue."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Répression douanière.",
+      "analysis": {
+        "social": "Conservatisme.",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Législation sur le cannabis en France"
+  },
+  "VC": {
+    "name": "Saint-Vincent-et-les-Grenadines",
+    "flag": "🇻🇨",
+    "alias": "Saint Vincent and the Grenadines",
+    "status": "tolerated",
+    "thc_status": "decriminalized",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2018 (Décriminalisation de 56g et légalisation médicale)",
+      "context": "Pionnier de l'industrie médicale dans les Caraïbes orientales."
+    },
+    "norml_expert": {
+      "summary": "Liberté individuelle élevée ; leader du cannabis médical régional.",
+      "risks": "Sanctions pour usage public sans ordonnance.",
+      "analysis": {
+        "social": "Normalisation exemplaire via l'agriculture.",
+        "racial": "Soutien aux petits producteurs traditionnels.",
+        "economic": "Moteur industriel national."
+      }
+    },
+    "wikipediaSlug": "Cannabis in Saint Vincent and the Grenadines"
+  },
+  "SX": {
+    "name": "Sint Maarten",
+    "flag": "🇸🇽",
+    "alias": "Sint Maarten",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Territoire autonome du Royaume des Pays-Bas avec ses propres lois strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle ; contraste avec la métropole néerlandaise.",
+      "risks": "Prison et amendes ; contrôles douaniers.",
+      "analysis": {
+        "social": "Débat public lent.",
+        "racial": "N/A",
+        "economic": "Pertes touristiques."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the Netherlands"
+  },
+  "TC": {
+    "name": "Îles Turques-et-Caïques",
+    "flag": "🇹🇨",
+    "alias": "Turks and Caicos Islands",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois britanniques strictes."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Peines de prison.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United Kingdom"
+  },
+  "VG": {
+    "name": "Îles Vierges britanniques",
+    "flag": "🇻🇬",
+    "alias": "Virgin Islands (British)",
+    "status": "prohibited",
+    "thc_status": "prohibited",
+    "cbd_status": "prohibited",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2024",
+      "context": "Lois britanniques rigides."
+    },
+    "norml_expert": {
+      "summary": "Liberté nulle.",
+      "risks": "Prison.",
+      "analysis": {
+        "social": "N/A",
+        "racial": "N/A",
+        "economic": "Néant."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United Kingdom"
+  },
+  "VI": {
+    "name": "Îles Vierges des États-Unis",
+    "flag": "🇻🇮",
+    "alias": "Virgin Islands (U.S.)",
+    "status": "legal",
+    "thc_status": "legal",
+    "cbd_status": "legal",
+    "history": {
+      "prohibition": "1930",
+      "evolution": "2023 (Légalisation totale de l'usage adulte)",
+      "context": "Alignement sur les états américains les plus progressistes."
+    },
+    "norml_expert": {
+      "summary": "Liberté totale ; marché légal en cours de régulation.",
+      "risks": "Restrictions fédérales intermittentes.",
+      "analysis": {
+        "social": "Normalisation sociale achevée.",
+        "racial": "Justice sociale au cœur de la réforme.",
+        "economic": "Nouveau pilier touristique."
+      }
+    },
+    "wikipediaSlug": "Cannabis in the United States Virgin Islands"
+  }
+}
