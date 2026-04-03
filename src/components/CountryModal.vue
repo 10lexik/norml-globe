@@ -34,11 +34,11 @@
               {{ t('status.' + effectiveStatus) }}
             </span>
             
-            <span v-if="tC('thc_status')" class="status-badge status--thc">
+            <span v-if="tC('thc_status')" class="status-badge" :class="'status--' + tC('thc_status')">
               THC: {{ t('status.' + tC('thc_status')) }}
             </span>
 
-            <span v-if="tC('cbd_status')" class="status-badge status--cbd">
+            <span v-if="tC('cbd_status')" class="status-badge" :class="'status--' + tC('cbd_status')">
               CBD: {{ t('status.' + tC('cbd_status')) }}
             </span>
 
@@ -1023,9 +1023,19 @@ watch(() => props.country, (val) => {
   text-shadow: 0 0 15px var(--color-text-accent-shadow);
 }
 
-/* ── Nouveaux Badges THC / CBD ── */
-.status--thc { background: var(--color-bg-card); color: var(--color-text-primary); border: 1px solid var(--color-border-soft); font-size: 0.7rem; }
-.status--cbd { background: var(--color-cbd-bg); color: var(--color-cbd-accent); border: 1px solid var(--color-cbd-accent); font-size: 0.7rem; }
+/* ── Nouveaux Badges THC / CBD (Styles par état) ── */
+.status--decriminalized { 
+  background: rgba(224, 163, 0, 0.1); 
+  color: var(--color-risk-medium); 
+  border: 1px solid var(--color-risk-medium); 
+  font-size: 0.72rem; 
+}
+
+/* On surcharge les badges secondaires pour qu'ils soient plus compacts que le badge principal */
+.status-badge:not(:first-child) {
+  font-size: 0.72rem;
+  padding: 4px 10px;
+}
 
 /* ── Histoire (NORML Expert) ── */
 .history-section { margin-top: 10px; }
